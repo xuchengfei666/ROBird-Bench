@@ -1,0 +1,35 @@
+protocol:
+  name: robird-v5-3-e5-failure-strata-v1
+  version: e5-failure-strata-v1-20260905
+  status: frozen
+  freeze_record: ../../FROZEN_E5_FAILURE_STRATA_V1.sha256
+  freeze_required:
+    - ../../E5_FAILURE_STRATA_PROTOCOL_V1.md
+    - e5_failure_strata_v1.yaml
+    - ../scripts/run_e5_failure_strata_v1.py
+    - ../data/manifests/development_photos_v5_3.csv
+    - ../data/manifests/development_splits_v5_3.csv
+    - ../results/dataset_p0/audit_v5_3.json
+    - ../results/benchmark_v5_3_p4_1/deepsets-all/predictions.csv
+    - ../results/benchmark_v5_3_p4_1/set-transformer-all/predictions.csv
+    - ../results/benchmark_v5_3_p4_1/rcca-all/predictions.csv
+    - ../results/benchmark_v5_3_p4_1/max-feature-all/predictions.csv
+    - ../data/manifests/external_g6x_inat2021_v1_1.csv
+    - ../results/external_g6x_v1_1/predictions.csv
+seed: 20260819
+paths:
+  manifest_csv: ../data/manifests/development_photos_v5_3.csv
+  splits_csv: ../data/manifests/development_splits_v5_3.csv
+  dataset_audit_json: ../results/dataset_p0/audit_v5_3.json
+  result_root: ../results/benchmark_v5_3_e5_failure_strata_v1
+  robird_predictions:
+    deepsets: ../results/benchmark_v5_3_p4_1/deepsets-all/predictions.csv
+    set_transformer: ../results/benchmark_v5_3_p4_1/set-transformer-all/predictions.csv
+    rcca: ../results/benchmark_v5_3_p4_1/rcca-all/predictions.csv
+    max_feature: ../results/benchmark_v5_3_p4_1/max-feature-all/predictions.csv
+  external_manifest: ../data/manifests/external_g6x_inat2021_v1_1.csv
+  external_predictions: ../results/external_g6x_v1_1/predictions.csv
+experiment:
+  split: development_test
+  budgets: [1, 2, 5]
+  area_bins: [0, 500000, 1500000, 100000000000]

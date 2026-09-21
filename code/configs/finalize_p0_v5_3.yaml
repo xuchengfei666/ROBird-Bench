@@ -1,0 +1,68 @@
+protocol:
+  name: robird-p0-v5-3-finalization
+  version: p0-v5.3-finalization-20260822
+  status: frozen
+  freeze_record: ../../FROZEN_DATASET_P0_V5_3_FINALIZATION.sha256
+  freeze_required:
+    - ../../DATASET_P0_V5_3_FINALIZATION_PROTOCOL.md
+    - finalize_p0_v5_3.yaml
+    - ../scripts/finalize_dataset_v5_3.py
+    - ../data/manifests/development_photos_v5_2_5.csv
+    - ../results/dataset_p0/audit_v5_2_5.json
+    - ../results/dataset_p0/near_duplicate_candidates_v5_2_5.csv
+    - ../results/dataset_p0/near_duplicate_candidates_v5_2_5.meta.json
+    - ../results/dataset_p0/near_duplicate_review_v5_2_5_visual.csv
+    - ../../docs/V5_3_VISUAL_DUPLICATE_REVIEW.md
+    - ../results/dataset_p0/census_candidates_v5_1.json
+    - ../data/manifests/frozen_100_taxa_v5_2_4.csv
+    - ../data/manifests/development_photos_v5_2_4.csv
+    - ../data/manifests/development_photos_v5_2_6.csv
+    - ../../FROZEN_DATASET_P0_V5_2_5_BYTE_AUDIT.sha256
+seed: 20260819
+paths:
+  base_manifest_csv: ../data/manifests/development_photos_v5_2_5.csv
+  base_audit_json: ../results/dataset_p0/audit_v5_2_5.json
+  base_near_candidates_csv: ../results/dataset_p0/near_duplicate_candidates_v5_2_5.csv
+  base_near_review_csv: ../results/dataset_p0/near_duplicate_review_v5_2_5_visual.csv
+  census_snapshot_json: ../results/dataset_p0/census_candidates_v5_1.json
+  class_table_csv: ../data/manifests/frozen_100_taxa_v5_2_4.csv
+  historical_manifest_csvs:
+    - ../data/manifests/development_photos_v5_2_4.csv
+    - ../data/manifests/development_photos_v5_2_5.csv
+    - ../data/manifests/development_photos_v5_2_6.csv
+  staging_root: E:/Datasets/ROBird-Bench/p0-v5_3/staging
+  staging_ledger_json: E:/Datasets/ROBird-Bench/p0-v5_3/metadata/staging_ledger.json
+  staging_pairs_csv: ../results/dataset_p0/staging_near_candidates_v5_3.csv
+  staging_audit_json: ../results/dataset_p0/staging_audit_v5_3.json
+  canonical_manifest_csv: ../data/manifests/development_photos_v5_3.csv
+  finalization_audit_json: ../results/dataset_p0/finalization_audit_v5_3.json
+replacement:
+  removed_observation_id: 341743168
+  taxon_id: 558439
+  expected_duplicate_sha256: 7ca0f5cd0c3a178f8b1fbe7d249a54bdc020e0a6ddf8fed9977dca3f9f153ca3
+  candidate_order:
+    - 324211207
+    - 345643572
+    - 364809738
+    - 375278662
+    - 328076033
+selection:
+  expected_species: 100
+  expected_groups: 5000
+  expected_photos_minimum: 12000
+  final_groups_per_species_min: 48
+  final_groups_per_species_max: 52
+  min_photos_per_group: 2
+  max_photos_per_group: 5
+  dhash_size: 8
+  hamming_threshold: 4
+  allowed_licenses: [cc0, cc-by, cc-by-sa]
+download:
+  request_attempts: 5
+  timeout_seconds: 90
+expected_inputs:
+  base_manifest_sha256: 42a781620174ffab169243ee611ed04d87c24f53eaf5d38cd112a5e9fbe0996f
+  base_audit_sha256: 282d7137d7654733ad0e170717c4657d0b951a70234484c6d8009c888215f7e2
+  base_near_candidates_sha256: 7845de6d10ff5c88ef1d34162632dad7a11916a8d381744575e11b1cb08fbe8f
+  census_snapshot_sha256: 5b2926e63f6614ddd3bcd87f95a287abf62fc8d278835b011ae5634d4eeb811f
+  class_table_sha256: 98e4bfafa639c40f6914636db39fe127792ba6054eb89b8e2183d693665bb98e

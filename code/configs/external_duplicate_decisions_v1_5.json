@@ -1,0 +1,334 @@
+{
+  "reviewer_type": "AI_ASSISTED_VISUAL_REVIEW",
+  "independent_human_adjudication": false,
+  "outcome_blinded": true,
+  "review_date": "2026-09-09",
+  "binding": "Exact index and candidate CSV hashes are resolved in review.json before the v1.5 freeze",
+  "pairs": [
+    {
+      "pair_id": 0,
+      "decision": "RETAIN_WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same vegetation scene and near-identical pelican framing; retain within-observation redundancy, no claim of independent information."
+    },
+    {
+      "pair_id": 1,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Perched bird on roof versus bird in flight; different pose, scene and framing."
+    },
+    {
+      "pair_id": 2,
+      "decision": "RETAIN_REVIEWED_SHARED_SCENE",
+      "rationale": "Identical SHA256 for the shared beach photo; approved multi-species scene in two observations of the same observer."
+    },
+    {
+      "pair_id": 3,
+      "decision": "RETAIN_REVIEWED_SHARED_SCENE",
+      "rationale": "Identical SHA256 under different photo IDs; another frame of the approved shared beach scene."
+    },
+    {
+      "pair_id": 4,
+      "decision": "RETAIN_REVIEWED_SHARED_SCENE",
+      "rationale": "Identical SHA256 under different photo IDs; third frame of the approved shared beach scene."
+    },
+    {
+      "pair_id": 5,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "White bird flying against blue sky versus duck swimming in gray water."
+    },
+    {
+      "pair_id": 6,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "White bird flying against blue sky versus dark waterbird swimming."
+    },
+    {
+      "pair_id": 7,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "White bird flying versus swimming duck; repeated historical reference path for pair5."
+    },
+    {
+      "pair_id": 8,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "White flying bird against plain sky versus dark flying bird over ocean and horizon."
+    },
+    {
+      "pair_id": 9,
+      "decision": "RETAIN_WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same observation of dock bird; head orientation differs; retain burst redundancy."
+    },
+    {
+      "pair_id": 10,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Dark broad-winged flight silhouette versus smaller pale narrow-winged bird."
+    },
+    {
+      "pair_id": 11,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Dark broad-winged flight silhouette versus smaller distant pale bird on gray sky."
+    },
+    {
+      "pair_id": 12,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Dark bird over cloud versus small pale distant bird on plain sky."
+    },
+    {
+      "pair_id": 13,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Dark bird flying over cloud versus swimming duck on gray water."
+    },
+    {
+      "pair_id": 14,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Dark bird flying over cloud versus swimming duck with different water framing."
+    },
+    {
+      "pair_id": 15,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Single dark bird over cloud versus two pale flying birds."
+    },
+    {
+      "pair_id": 16,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Dark bird over cloud versus frontal pale bird with spread wings."
+    },
+    {
+      "pair_id": 17,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Dark bird flying over cloud versus dark duck swimming on water."
+    },
+    {
+      "pair_id": 18,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Dark bird over cloud versus swimming duck; historical duplicate path of pair13."
+    },
+    {
+      "pair_id": 19,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Dark bird over cloud versus swimming duck; historical duplicate path of pair14."
+    },
+    {
+      "pair_id": 20,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Dark bird over cloud versus red bird perched on wire."
+    },
+    {
+      "pair_id": 21,
+      "decision": "RETAIN_WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same observation: black bird in vegetation with changed head direction; retain burst redundancy."
+    },
+    {
+      "pair_id": 22,
+      "decision": "RETAIN_WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same observation: black bird on railing, near-identical framing; retain near-duplicate redundancy."
+    },
+    {
+      "pair_id": 23,
+      "decision": "RETAIN_WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same observation: black bird on yard fence, closely spaced frames; retain redundancy."
+    },
+    {
+      "pair_id": 24,
+      "decision": "RETAIN_WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same observation: black bird on grass with changed head direction."
+    },
+    {
+      "pair_id": 25,
+      "decision": "RETAIN_WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same observation: black bird on leaf litter, near-identical framing; retain redundancy."
+    },
+    {
+      "pair_id": 26,
+      "decision": "RETAIN_WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same observation: window/interior scene with distant subject, near-identical framing; no claim of meaningful new view."
+    },
+    {
+      "pair_id": 27,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Small pale bird above rippling water versus dark swimming duck; subject and water framing differ."
+    },
+    {
+      "pair_id": 28,
+      "decision": "RETAIN_WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same observation: woodpecker at trunk with changed head pose."
+    },
+    {
+      "pair_id": 29,
+      "decision": "RETAIN_WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same observation: woodpecker on trunk with changed head/body orientation."
+    },
+    {
+      "pair_id": 30,
+      "decision": "RETAIN_WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same observation: woodpecker on pine trunk, near-redundant framing; retain redundancy."
+    },
+    {
+      "pair_id": 31,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Pale broad-winged bird versus much smaller differently angled bird; shape, scale and pose differ."
+    },
+    {
+      "pair_id": 32,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Flying bird against sky versus long-necked waterbird swimming."
+    },
+    {
+      "pair_id": 33,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Single pale bird versus multiple dark flying birds."
+    },
+    {
+      "pair_id": 34,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Single pale bird versus flock of dark birds on gray sky."
+    },
+    {
+      "pair_id": 35,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Single pale bird versus another dark flock frame on gray sky."
+    },
+    {
+      "pair_id": 36,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Single pale bird versus many pale birds at different scales/positions."
+    },
+    {
+      "pair_id": 37,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Broad-winged pale bird versus closer gray bird with raised wings; silhouette and posture differ."
+    },
+    {
+      "pair_id": 38,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Flying bird against sky versus two tiny waterbirds swimming."
+    },
+    {
+      "pair_id": 39,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Flying bird against sky versus multiple dark birds at water surface."
+    },
+    {
+      "pair_id": 40,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Flying pale bird against plain sky versus differently posed bird above grassland and pole."
+    },
+    {
+      "pair_id": 41,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Broad feathered-wing bird versus narrow-winged pale bird in different posture."
+    },
+    {
+      "pair_id": 42,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Flying bird against sky versus waterbird below concrete wall."
+    },
+    {
+      "pair_id": 43,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Flying bird against sky versus group of ducks swimming."
+    },
+    {
+      "pair_id": 44,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Large pale bird versus distant dark silhouette with different shape and scale."
+    },
+    {
+      "pair_id": 45,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Large pale bird versus another distant dark silhouette/frame."
+    },
+    {
+      "pair_id": 46,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Flying bird against sky versus small birds at concrete wall."
+    },
+    {
+      "pair_id": 47,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Flying bird against sky versus power lines/pole/trees scene."
+    },
+    {
+      "pair_id": 48,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Broad feathered-wing bird versus pointed-wing long-tailed pale bird."
+    },
+    {
+      "pair_id": 49,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Flying bird against sky versus birds at shoreline."
+    },
+    {
+      "pair_id": 50,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Flying bird against sky versus waterbirds on waves."
+    },
+    {
+      "pair_id": 51,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Pale broad-winged bird versus close gray narrow-winged bird with distinct body shape."
+    },
+    {
+      "pair_id": 52,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Pale broad-winged bird versus close gray narrow-winged bird in different raised-wing posture."
+    },
+    {
+      "pair_id": 53,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Broad-winged pale bird versus different pale bird with strongly bent wings and different silhouette."
+    },
+    {
+      "pair_id": 54,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Broad-winged pale bird versus small oblique flight frame with different wing silhouette."
+    },
+    {
+      "pair_id": 55,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Broad-winged pale bird versus smaller side-profile bird with different wing posture."
+    },
+    {
+      "pair_id": 56,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Pale bird versus dark duck-like bird in flight; shape, coloration and framing differ."
+    },
+    {
+      "pair_id": 57,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Pale bird versus dark duck-like bird in flight with moon in frame."
+    },
+    {
+      "pair_id": 58,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Pale bird against plain sky versus distant bird over ocean/horizon/clouds."
+    },
+    {
+      "pair_id": 59,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Flying bird against sky versus long-necked swimming bird; repeated historical reference of pair32."
+    },
+    {
+      "pair_id": 60,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Broad-winged bird versus close narrow-winged long-tailed pale bird in bent-wing posture."
+    },
+    {
+      "pair_id": 61,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Flying bird against sky versus three waterbirds swimming."
+    },
+    {
+      "pair_id": 62,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Flying pale bird against blue sky versus blurry dark duck on gray water."
+    },
+    {
+      "pair_id": 63,
+      "decision": "FALSE_POSITIVE_HISTORY",
+      "rationale": "Flying pale bird versus blurry dark duck; repeated historical image via another path."
+    },
+    {
+      "pair_id": 64,
+      "decision": "RETAIN_WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same observation: chicks on roof with changed head/body positions; retain natural burst."
+    }
+  ]
+}

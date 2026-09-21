@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite this versioned research software and data release when using it."
+title: "ROBird-Bench: natural photo grouping and aggregation trade-offs in multi-photo bird recognition"
+type: software
+authors:
+  - family-names: Xu
+    given-names: Chengfei
+  - family-names: Jiang
+    given-names: Yunrui
+version: 1.0.0
+date-released: 2026-09-22
+repository-code: "https://github.com/xuchengfei666/ROBird-Bench"
+url: "https://github.com/xuchengfei666/ROBird-Bench/releases/tag/v1.0.0"
+license: MIT

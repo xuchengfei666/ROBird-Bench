@@ -1,0 +1,53 @@
+protocol:
+  name: robird-dataset-p0-v5-2-6-byte-audit
+  version: p0-v5.2.6-byte-audit-20260822
+  status: frozen
+  freeze_record: ../../FROZEN_DATASET_P0_V5_2_6_BYTE_AUDIT.sha256
+  freeze_required:
+    - ../../DATASET_P0_V5_2_6_BYTE_AUDIT_PROTOCOL.md
+    - dataset_p0_v5_2_6.yaml
+    - ../scripts/audit_dataset.py
+    - ../scripts/build_splits.py
+    - ../data/manifests/development_photos_v5_2_6.csv
+    - ../data/manifests/p0_metadata_photos_v5_2_6.csv
+    - ../results/dataset_p0/cleanup_audit_v5_2_6.json
+    - E:/Datasets/ROBird-Bench/p0-v5_2_6/metadata/download_ledger.json
+    - ../../FROZEN_DATASET_P0_V5_2_6_CLEANUP.sha256
+seed: 20260819
+paths:
+  canonical_manifest_csv: ../data/manifests/development_photos_v5_2_6.csv
+  audit_json: ../results/dataset_p0/audit_v5_2_6.json
+  split_csv: ../data/manifests/development_splits_v5_2_6.csv
+  split_audit_json: ../results/dataset_p0/split_audit_v5_2_6.json
+licenses:
+  allowed:
+    - cc0
+    - cc-by
+    - cc-by-sa
+eligibility:
+  min_photos_per_group: 2
+  max_photos_per_group: 5
+  min_species: 100
+  min_total_groups: 5000
+  min_total_photos: 12000
+  min_groups_per_species: 48
+  min_observers_per_species: 15
+  max_observer_fraction_per_species: 0.20
+split:
+  names: [train, validation, development_test]
+  fractions: [0.70, 0.15, 0.15]
+  milp_time_limit_seconds: 300
+duplicates:
+  dhash_size: 8
+  hamming_threshold: 4
+  quarantine_candidates: true
+  candidate_csv: ../results/dataset_p0/near_duplicate_candidates_v5_2_6.csv
+  candidate_meta_json: ../results/dataset_p0/near_duplicate_candidates_v5_2_6.meta.json
+gates:
+  require_zero_observation_overlap: true
+  require_zero_observer_overlap: true
+  require_zero_exact_hash_overlap: true
+  require_unseen_confirmation_cohort: true
+holdout:
+  registered_manifest: null
+  registered_manifest_sha256: null

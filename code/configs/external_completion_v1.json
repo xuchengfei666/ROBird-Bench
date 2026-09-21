@@ -1,0 +1,211 @@
+{
+  "bootstrap_repeats": 5000,
+  "data_root": "E:\\Datasets\\ROBird-Bench\\external_completion_v1",
+  "human_quality_complete": false,
+  "modes": [
+    "full",
+    "sensitivity_no_cluster"
+  ],
+  "new_training": false,
+  "original_g6_pass": false,
+  "parent_contract": "90298d8ece98ec54c8318b3eeecc5e60b5911dce3ec714effb1d9d5b17bcf428",
+  "random_seed": 20260909,
+  "runs": [
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-mean_feature-all-seed20260819\\best.pth",
+      "checkpoint_sha256": "d02ef87b11ffd71e111bf9b82bd6a94c836131cee66057badec07293d03555e4",
+      "model": "mean_feature",
+      "run_id": "dinov2-mean_feature-all-seed20260819",
+      "seed": 20260819,
+      "training_policy": "all"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-mean_feature-all-seed20260820\\best.pth",
+      "checkpoint_sha256": "68ae4ed86f6c457207604c1d1719fc3e335aad3573b2dd7cb9a80d183dbf38ac",
+      "model": "mean_feature",
+      "run_id": "dinov2-mean_feature-all-seed20260820",
+      "seed": 20260820,
+      "training_policy": "all"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-mean_feature-all-seed20260821\\best.pth",
+      "checkpoint_sha256": "29ee66512f4483225fed52ebb32959d6e22edb965b31e6ce18a0aed5fc1db2ae",
+      "model": "mean_feature",
+      "run_id": "dinov2-mean_feature-all-seed20260821",
+      "seed": 20260821,
+      "training_policy": "all"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-mean_feature-k1-seed20260819\\best.pth",
+      "checkpoint_sha256": "59cd62e47028895454d4ac4190fb374a93efd0b8d51aef8ed15fcaafb769e983",
+      "model": "mean_feature",
+      "run_id": "dinov2-mean_feature-k1-seed20260819",
+      "seed": 20260819,
+      "training_policy": "k1"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-mean_feature-k1-seed20260820\\best.pth",
+      "checkpoint_sha256": "36dc77ffc1eb9840e976794b17f495a17b051a8d55a585d51d27e40a20dd14ca",
+      "model": "mean_feature",
+      "run_id": "dinov2-mean_feature-k1-seed20260820",
+      "seed": 20260820,
+      "training_policy": "k1"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-mean_feature-k1-seed20260821\\best.pth",
+      "checkpoint_sha256": "e5d2fa31f94bd65f5ca7cba9baaf6c30818275e36970d3f55ac99cac125170bd",
+      "model": "mean_feature",
+      "run_id": "dinov2-mean_feature-k1-seed20260821",
+      "seed": 20260821,
+      "training_policy": "k1"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-probability_mlp-all-seed20260819\\best.pth",
+      "checkpoint_sha256": "6cd56b1f5ff0cd1f6ad3c834b1eab5a52a7f7e59d687618f15baabe055609d37",
+      "model": "probability_mlp",
+      "run_id": "dinov2-probability_mlp-all-seed20260819",
+      "seed": 20260819,
+      "training_policy": "all"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-probability_mlp-all-seed20260820\\best.pth",
+      "checkpoint_sha256": "d48a3149e9ab754fe0265e9b0a2ac448cc60ad80c7071059d045421045b4dd6b",
+      "model": "probability_mlp",
+      "run_id": "dinov2-probability_mlp-all-seed20260820",
+      "seed": 20260820,
+      "training_policy": "all"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-probability_mlp-all-seed20260821\\best.pth",
+      "checkpoint_sha256": "fd7199c96e803c08f8406cdab3df0f099868077881e6c1b74c9852a4fdc9318f",
+      "model": "probability_mlp",
+      "run_id": "dinov2-probability_mlp-all-seed20260821",
+      "seed": 20260821,
+      "training_policy": "all"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-probability_mlp-k1-seed20260819\\best.pth",
+      "checkpoint_sha256": "0319aaf071ca657e9a501cab431a80a27178c34de316b7e89e9bf1daaba143eb",
+      "model": "probability_mlp",
+      "run_id": "dinov2-probability_mlp-k1-seed20260819",
+      "seed": 20260819,
+      "training_policy": "k1"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-probability_mlp-k1-seed20260820\\best.pth",
+      "checkpoint_sha256": "15f778c8ef796c7f0dfa65c589393ace11512a506b6f6fe22e56f5db21484c65",
+      "model": "probability_mlp",
+      "run_id": "dinov2-probability_mlp-k1-seed20260820",
+      "seed": 20260820,
+      "training_policy": "k1"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-probability_mlp-k1-seed20260821\\best.pth",
+      "checkpoint_sha256": "a50aaaab579c9f271491b69ce6ebaed78c808fae6fcac8197ddcb4855b63686c",
+      "model": "probability_mlp",
+      "run_id": "dinov2-probability_mlp-k1-seed20260821",
+      "seed": 20260821,
+      "training_policy": "k1"
+    },
+    {
+      "checkpoint": "C:\\Users\\Administrator\\Desktop\\Bird-Recognition-Research\\Optics-Aware-Bird-Recognition-Research\\ROBird-Benchmark\\code\\results\\benchmark_v5_3_e4_seed_v1\\deepsets-seed20260819\\best.pth",
+      "checkpoint_sha256": "bc4e55e28a3e8d4c89aab2bd465387422d4ab51e59224adce36fcf38fe89f447",
+      "model": "deepsets",
+      "run_id": "dinov2-deepsets-all-seed20260819",
+      "seed": 20260819,
+      "training_policy": "all"
+    },
+    {
+      "checkpoint": "C:\\Users\\Administrator\\Desktop\\Bird-Recognition-Research\\Optics-Aware-Bird-Recognition-Research\\ROBird-Benchmark\\code\\results\\benchmark_v5_3_e4_seed_v1\\deepsets-seed20260820\\best.pth",
+      "checkpoint_sha256": "6e0f9e8f439c75fda50d8e231a9bfe8530a0a39bac19aa6fbf75956625fb2758",
+      "model": "deepsets",
+      "run_id": "dinov2-deepsets-all-seed20260820",
+      "seed": 20260820,
+      "training_policy": "all"
+    },
+    {
+      "checkpoint": "C:\\Users\\Administrator\\Desktop\\Bird-Recognition-Research\\Optics-Aware-Bird-Recognition-Research\\ROBird-Benchmark\\code\\results\\benchmark_v5_3_e4_seed_v1\\deepsets-seed20260821\\best.pth",
+      "checkpoint_sha256": "71d92ae19d93eb87c6932bb25e2d56201b54baa6fd0f7348b3d6c8b03aaa21be",
+      "model": "deepsets",
+      "run_id": "dinov2-deepsets-all-seed20260821",
+      "seed": 20260821,
+      "training_policy": "all"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-deepsets-k1-seed20260819\\best.pth",
+      "checkpoint_sha256": "1e06c4b1106b10d240ab242e54c10c2c4a8b65dcf0b6f45a82a40aa80cc6172e",
+      "model": "deepsets",
+      "run_id": "dinov2-deepsets-k1-seed20260819",
+      "seed": 20260819,
+      "training_policy": "k1"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-deepsets-k1-seed20260820\\best.pth",
+      "checkpoint_sha256": "c676101bac9ecb80a1cc605c8effe0c8c562c7428d589c55e24aad2b9044efca",
+      "model": "deepsets",
+      "run_id": "dinov2-deepsets-k1-seed20260820",
+      "seed": 20260820,
+      "training_policy": "k1"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-deepsets-k1-seed20260821\\best.pth",
+      "checkpoint_sha256": "7329be1f162e621afa51cbc2a1baba771be50c702b1e7e3ccbeac834fd0a69c4",
+      "model": "deepsets",
+      "run_id": "dinov2-deepsets-k1-seed20260821",
+      "seed": 20260821,
+      "training_policy": "k1"
+    },
+    {
+      "checkpoint": "C:\\Users\\Administrator\\Desktop\\Bird-Recognition-Research\\Optics-Aware-Bird-Recognition-Research\\ROBird-Benchmark\\code\\results\\benchmark_v5_3_e4_seed_v1\\set-transformer-seed20260819\\best.pth",
+      "checkpoint_sha256": "2aaa278087888943789d7643c7825f6f2f2768e73dc8e97f8871b406842c2f15",
+      "model": "set_transformer",
+      "run_id": "dinov2-set_transformer-all-seed20260819",
+      "seed": 20260819,
+      "training_policy": "all"
+    },
+    {
+      "checkpoint": "C:\\Users\\Administrator\\Desktop\\Bird-Recognition-Research\\Optics-Aware-Bird-Recognition-Research\\ROBird-Benchmark\\code\\results\\benchmark_v5_3_e4_seed_v1\\set-transformer-seed20260820\\best.pth",
+      "checkpoint_sha256": "ccc32e7702651dac8938a15d3428b5178b8647b1184000e111036b5940a14316",
+      "model": "set_transformer",
+      "run_id": "dinov2-set_transformer-all-seed20260820",
+      "seed": 20260820,
+      "training_policy": "all"
+    },
+    {
+      "checkpoint": "C:\\Users\\Administrator\\Desktop\\Bird-Recognition-Research\\Optics-Aware-Bird-Recognition-Research\\ROBird-Benchmark\\code\\results\\benchmark_v5_3_e4_seed_v1\\set-transformer-seed20260821\\best.pth",
+      "checkpoint_sha256": "8d66d266ea9f314ec66bb8bb2a6d35814f5893d1d1800bb8bf6fb0b50f3520f3",
+      "model": "set_transformer",
+      "run_id": "dinov2-set_transformer-all-seed20260821",
+      "seed": 20260821,
+      "training_policy": "all"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-set_transformer-k1-seed20260819\\best.pth",
+      "checkpoint_sha256": "11e193255437168fe14aec635612312c17254e11b3112394a92545b67108f922",
+      "model": "set_transformer",
+      "run_id": "dinov2-set_transformer-k1-seed20260819",
+      "seed": 20260819,
+      "training_policy": "k1"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-set_transformer-k1-seed20260820\\best.pth",
+      "checkpoint_sha256": "418c1f3e4dd7d0d1d0eedc8a2e897b2d6d0923967070490fbaa3e99e14e8ebb8",
+      "model": "set_transformer",
+      "run_id": "dinov2-set_transformer-k1-seed20260820",
+      "seed": 20260820,
+      "training_policy": "k1"
+    },
+    {
+      "checkpoint": "E:\\Datasets\\ROBird-Bench\\rsos_serial_v1\\runs\\dinov2-set_transformer-k1-seed20260821\\best.pth",
+      "checkpoint_sha256": "64a40bfe86c89e4f37711481dcd7645965dce1c5b9ee138ff19f1a9ea6e79dd5",
+      "model": "set_transformer",
+      "run_id": "dinov2-set_transformer-k1-seed20260821",
+      "seed": 20260821,
+      "training_policy": "k1"
+    }
+  ],
+  "signflip_repeats": 9999,
+  "source_data": "E:\\Datasets\\ROBird-Bench\\external_cohort_v1_5",
+  "source_report": "C:\\Users\\Administrator\\Desktop\\Bird-Recognition-Research\\Optics-Aware-Bird-Recognition-Research\\ROBird-Benchmark\\code\\results\\external_cohort_v1_5",
+  "statistical_reporting_only": true
+}

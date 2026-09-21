@@ -1,0 +1,63 @@
+protocol:
+  name: robird-dataset-p0-v3
+  version: p0-v3-20260819
+  status: frozen
+  freeze_record: ../../FROZEN_DATASET_P0_V3.sha256
+  freeze_required:
+    - ../../DATASET_P0_V3_PROTOCOL.md
+    - dataset_p0_v3.yaml
+    - scaleup_p0_v3.yaml
+    - ../data/manifests/frozen_100_taxa.csv
+    - ../results/scaleup_feasibility/audit.json
+    - ../results/dataset_p0/scaleup_selection_audit.json
+    - ../results/dataset_p0/scaleup_selection_audit_v2.json
+seed: 20260819
+paths:
+  original_manifest_csv: ../../../Unseen-View-Evidence-Bounds/code/data/p0_manifest.csv
+  original_source_json: ../../../experiments/real_observation_counterfactual/results/d1_manifest.json
+  original_download_ledger: ../../../experiments/real_observation_counterfactual/results/d1_downloads.json
+  confirmation_manifest_csv: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_manifest.csv
+  confirmation_source_json: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_manifest.json
+  confirmation_download_ledger: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_downloads.json
+  canonical_manifest_csv: ../data/manifests/development_photos_v3.csv
+  audit_json: ../results/dataset_p0/audit_v3.json
+  split_csv: ../data/manifests/development_splits_v3.csv
+  split_audit_json: ../results/dataset_p0/split_audit_v3.json
+licenses:
+  allowed:
+    - cc0
+    - cc-by
+    - cc-by-sa
+eligibility:
+  min_photos_per_group: 2
+  max_photos_per_group: 5
+  min_species: 100
+  min_total_groups: 5000
+  min_total_photos: 12000
+  min_groups_per_species: 30
+  min_observers_per_species: 15
+  max_observer_fraction_per_species: 0.20
+split:
+  names:
+    - train
+    - validation
+    - development_test
+  fractions:
+    - 0.70
+    - 0.15
+    - 0.15
+  milp_time_limit_seconds: 300
+duplicates:
+  dhash_size: 8
+  hamming_threshold: 4
+  quarantine_candidates: true
+  candidate_csv: ../results/dataset_p0/near_duplicate_candidates_v3.csv
+  candidate_meta_json: ../results/dataset_p0/near_duplicate_candidates_v3.meta.json
+gates:
+  require_zero_observation_overlap: true
+  require_zero_observer_overlap: true
+  require_zero_exact_hash_overlap: true
+  require_unseen_confirmation_cohort: true
+holdout:
+  registered_manifest: null
+  registered_manifest_sha256: null

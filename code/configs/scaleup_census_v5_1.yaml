@@ -1,0 +1,68 @@
+protocol:
+  name: robird-p0-v5-1-parser-correction-census
+  version: p0-v5.1-census-20260821
+  status: frozen
+  freeze_record: ../../FROZEN_DATASET_P0_V5_1_CENSUS.sha256
+  freeze_required:
+    - ../../DATASET_P0_V5_1_CENSUS_PROTOCOL.md
+    - scaleup_census_v5_1.yaml
+    - ../scripts/audit_scaleup_census_v5_1.py
+    - ../scripts/audit_scaleup_census_v5.py
+    - ../../FROZEN_DATASET_P0_V5_CENSUS.sha256
+    - ../../DATASET_P0_V5_CENSUS_PROTOCOL.md
+    - scaleup_census_v5.yaml
+    - ../results/dataset_p0/census_candidates_v5.json
+seed: 20260819
+paths:
+  original_manifest_csv: ../../../Unseen-View-Evidence-Bounds/code/data/p0_manifest.csv
+  original_source_json: ../../../experiments/real_observation_counterfactual/results/d1_manifest.json
+  original_download_ledger: ../../../experiments/real_observation_counterfactual/results/d1_downloads.json
+  confirmation_manifest_csv: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_manifest.csv
+  confirmation_source_json: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_manifest.json
+  confirmation_download_ledger: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_downloads.json
+  feasibility_audit_json: ../results/scaleup_feasibility/audit.json
+  frozen_taxa_v4_csv: ../data/manifests/frozen_100_taxa_v4.csv
+  v4_candidate_snapshot_json: ../results/dataset_p0/scaleup_candidates_v4.json
+  v4_selection_audit_json: ../results/dataset_p0/scaleup_selection_audit_v4.json
+  legacy_v5_snapshot_json: ../results/dataset_p0/census_candidates_v5.json
+  census_snapshot_json: ../results/dataset_p0/census_candidates_v5_1.json
+  census_audit_json: ../results/dataset_p0/census_audit_v5_1.json
+source:
+  api_base: https://api.inaturalist.org/v1
+  created_d2: '2026-08-18T16:00:00Z'
+  quality_grade: research
+  photo_licenses:
+    - cc0
+    - cc-by
+    - cc-by-sa
+  min_photos_per_group: 2
+  max_photos_per_group: 5
+  pages: 20
+  per_page: 200
+  request_attempts: 5
+  request_delay_seconds: 0.15
+  url_normalization: allow_known_size_empty_extension_to_large
+census:
+  expected_current_taxa: 100
+  expected_reserve_taxa: 41
+  expected_total_taxa: 141
+  final_groups_per_species_min: 48
+  final_groups_per_species_max: 52
+  candidate_multiplier: 4
+  reserve_original_min_groups: 50
+  reserve_original_min_observers: 50
+  reserve_rule: all_unused_resolved_frozen_audit_candidates_meeting_original_50_50_gate
+bootstrap:
+  expected_v4_candidate_sha256: e4cf32d4ebc6fd372559d2f4f71f3da61f4e532d63d56a60bd4e9dc4f442d502
+  expected_v4_audit_sha256: df927a1f0ac2a5cd4be49c978c24e48a0f059be5aca44b4e21773912e1dfe55d
+  expected_v4_contract_hash: d73a971fd293a491417ce7f153ddf2310d34fe1db63dd4e84c2020a09e9b4568
+  expected_v4_status: STOPPED_PRECHECK
+  expected_v4_audit_status: STOP_SCALEUP_PER_SPECIES_INFEASIBLE
+  expected_v4_completed_current_taxa: 71
+  expected_v4_candidate_groups: 6050
+  expected_legacy_v5_candidate_sha256: 7af212da1b2a53a13a42a44b460d311d49456e0f931394af32730f3f0cc1efa4
+  expected_legacy_v5_contract_hash: 74c0fab6cd212cb3b0e8498b23e39943128ef4de20248e68c17604d8e1989681
+  expected_legacy_v5_status: RUNNING
+  expected_completed_taxa: 86
+  expected_candidate_groups: 7532
+  expected_last_taxon_id: 6988

@@ -1,0 +1,33 @@
+protocol:
+  name: robird-scaleup-feasibility
+  version: preregistered-20260819
+  status: metadata_feasibility_preregistered
+seed: 20260819
+paths:
+  original_manifest_csv: ../../../Unseen-View-Evidence-Bounds/code/data/p0_manifest.csv
+  confirmation_manifest_csv: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_manifest.csv
+  taxonomy_json: E:/Datasets/iNaturalist-2021/metadata/train_mini.json
+  output_json: ../results/scaleup_feasibility/audit.json
+taxonomy:
+  expected_sha256: 481b14dcabe945181e79c2cb8a65cf257e767468db8d94a9559b0ce639086060
+  class_name: Aves
+candidate_selection:
+  scan_limit: 120
+  new_species_count: 20
+  min_eligible_groups: 50
+  min_eligible_observers: 50
+source:
+  api_base: https://api.inaturalist.org/v1
+  created_d2: '2026-08-18T16:00:00Z'
+  quality_grade: research
+  photo_licenses:
+    - cc0
+    - cc-by
+    - cc-by-sa
+  min_photos_per_group: 2
+  max_photos_per_group: 5
+  pages: 5
+  per_page: 200
+  early_stop_unique_observers: 75
+  request_attempts: 5
+  request_delay_seconds: 0.15

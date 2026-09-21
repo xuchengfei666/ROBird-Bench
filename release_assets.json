@@ -1,0 +1,263 @@
+{
+  "tag": "v1.0.0",
+  "assets": [
+    {
+      "name": "results-001.zip",
+      "bytes": 56310266,
+      "sha256": "2b70523278d815939c1e28763aa5683374d7d253caf58a4d0a5c8ff8df5cac34",
+      "files": 2161
+    },
+    {
+      "name": "results-002.zip",
+      "bytes": 53459698,
+      "sha256": "acb9279b02b866612ba20928f5ce5271c6ca820cc9f81009473bf5046ccbd477",
+      "files": 2384
+    },
+    {
+      "name": "results-003.zip",
+      "bytes": 5111724,
+      "sha256": "9d761e70b2a43f0d6ea231ccb122e7f1839f372eba1f79ef9a7d94034fc8d0b8",
+      "files": 814
+    },
+    {
+      "name": "external-predictions-and-controls-001.zip",
+      "bytes": 127402151,
+      "sha256": "e81eb35ffd3588e0677391399721e2075794444617718d468e43d0e452204a64",
+      "files": 16
+    },
+    {
+      "name": "external-predictions-and-controls-002.zip",
+      "bytes": 126449466,
+      "sha256": "ed587693296cc8d875e5101cee7543556951e3cd353d1882336096bbfd49f8b2",
+      "files": 21
+    },
+    {
+      "name": "external-predictions-and-controls-003.zip",
+      "bytes": 131767250,
+      "sha256": "aa7db6affa9560dad627a49ff68849a3f715a777c8d5f9c721432c106aec74ce",
+      "files": 35
+    },
+    {
+      "name": "external-predictions-and-controls-004.zip",
+      "bytes": 130110669,
+      "sha256": "cec765b6869e11d3c5b64886812ead395021db2b0ac613a2c2a668835906d6cb",
+      "files": 35
+    },
+    {
+      "name": "external-predictions-and-controls-005.zip",
+      "bytes": 132065758,
+      "sha256": "ea04795f9b244aecb85c62bbd3ba57466a2b35acdb846e5e0dfa5e9672a86709",
+      "files": 36
+    },
+    {
+      "name": "external-predictions-and-controls-006.zip",
+      "bytes": 125698061,
+      "sha256": "0ecfac17bb67e6ac85bc5edbc51813c24812e10328d6c2f80ab8b3d72141ef21",
+      "files": 30
+    },
+    {
+      "name": "external-predictions-and-controls-007.zip",
+      "bytes": 129910777,
+      "sha256": "31c4c2601290b59aa62ace2f59e0b11b3d05bbae97a56329f6d6a1d461bc25d8",
+      "files": 36
+    },
+    {
+      "name": "external-predictions-and-controls-008.zip",
+      "bytes": 123235114,
+      "sha256": "8f3b047a7e621de4c7221726485dc636864942c15d62108703d173803fade003",
+      "files": 36
+    },
+    {
+      "name": "external-predictions-and-controls-009.zip",
+      "bytes": 126686363,
+      "sha256": "d024b9d4fa462aaca5a6adcd122424cc3b73658cf7bd2e7df93232387258964e",
+      "files": 32
+    },
+    {
+      "name": "external-predictions-and-controls-010.zip",
+      "bytes": 130460998,
+      "sha256": "9984c9e4c2701ee6ef5db4b249951319382eb13cb5b188901588494f9a5ffca4",
+      "files": 36
+    },
+    {
+      "name": "external-predictions-and-controls-011.zip",
+      "bytes": 131214523,
+      "sha256": "2c81c6726260cee660f4a983fd8c73208cf31e7205c04ca2945e5a452d5a00c0",
+      "files": 35
+    },
+    {
+      "name": "external-predictions-and-controls-012.zip",
+      "bytes": 131406224,
+      "sha256": "3cd8e67044b9de048a9031636d44edf1f53308ae917a14f8cc9162ddc736bd99",
+      "files": 35
+    },
+    {
+      "name": "external-predictions-and-controls-013.zip",
+      "bytes": 130081052,
+      "sha256": "06217e938518b5e1813d3b0f356c253829a0b4a3eaeba210913ed3dbeb9224da",
+      "files": 30
+    },
+    {
+      "name": "external-predictions-and-controls-014.zip",
+      "bytes": 131291442,
+      "sha256": "83dc623b35e251c3d69ee792a860d489b95667789cb741514da07c1d5771988b",
+      "files": 35
+    },
+    {
+      "name": "external-predictions-and-controls-015.zip",
+      "bytes": 129769146,
+      "sha256": "8fec35819e22bb2f4cee3ecada523d8780923c2599f9b8275f56675a701f7857",
+      "files": 36
+    },
+    {
+      "name": "external-predictions-and-controls-016.zip",
+      "bytes": 132016440,
+      "sha256": "8c4e2be850460e2f5eb1831d63b01db7bed554b74c53d2a9e5c4204967277c1e",
+      "files": 35
+    },
+    {
+      "name": "external-predictions-and-controls-017.zip",
+      "bytes": 132775710,
+      "sha256": "374a915d1b7a88d2f9658c494903e17f4acc7dea496d951678df8a702b32e65b",
+      "files": 48
+    },
+    {
+      "name": "external-predictions-and-controls-018.zip",
+      "bytes": 133315876,
+      "sha256": "996281c98f9671f4ddd0610fdbc1c1ef6f95ee2ece23be674b1b01966be3f5b4",
+      "files": 73
+    },
+    {
+      "name": "external-predictions-and-controls-019.zip",
+      "bytes": 130900397,
+      "sha256": "56067d9f0461f141de36c33473518dc32965819330aa54e5e395b1c83cf5d03d",
+      "files": 76
+    },
+    {
+      "name": "external-predictions-and-controls-020.zip",
+      "bytes": 130350132,
+      "sha256": "76724afde23a28047de21824d55965a53bf5ad914baa4cb1b9782337eaa3a164",
+      "files": 75
+    },
+    {
+      "name": "external-predictions-and-controls-021.zip",
+      "bytes": 133025797,
+      "sha256": "4ebd2bbb34fbbe76da85eba836f486229f0c2d0275b1f401db66d0a6c7c39391",
+      "files": 73
+    },
+    {
+      "name": "external-predictions-and-controls-022.zip",
+      "bytes": 132789153,
+      "sha256": "e6376d7c04ca801c07a7b377c55753b4d9bcce1b5723d4db0600c2e394df0aa1",
+      "files": 73
+    },
+    {
+      "name": "external-predictions-and-controls-023.zip",
+      "bytes": 131249493,
+      "sha256": "5ccaa5a70d9241909b7a1a25770a21650a669319505a5db3500754a55af17017",
+      "files": 72
+    },
+    {
+      "name": "external-predictions-and-controls-024.zip",
+      "bytes": 131011240,
+      "sha256": "d69c5816fae16043d3b4d91bca4c613736502141fcc2062c41acab4eed135b06",
+      "files": 73
+    },
+    {
+      "name": "external-predictions-and-controls-025.zip",
+      "bytes": 130852772,
+      "sha256": "39393c2ab87120bd09ed7aa246eff25512875704d587a253c07dec7ae76534a6",
+      "files": 73
+    },
+    {
+      "name": "external-predictions-and-controls-026.zip",
+      "bytes": 130688832,
+      "sha256": "da9d597f0c1b915135fc345985ce5fc99b13f8c9c56c040adca5a9841805073d",
+      "files": 73
+    },
+    {
+      "name": "external-predictions-and-controls-027.zip",
+      "bytes": 123984116,
+      "sha256": "c1c86058f2e92b07bb94549529f98355976f7fbe07182b062c2b2a3b9136d9a9",
+      "files": 165
+    },
+    {
+      "name": "external-predictions-and-controls-028.zip",
+      "bytes": 127482162,
+      "sha256": "4d344daf8074a25291d93258ef6e7ae29c2d7e61ee763201cf215310ed01f93e",
+      "files": 36
+    },
+    {
+      "name": "external-predictions-and-controls-029.zip",
+      "bytes": 127374661,
+      "sha256": "f63972df2e7235664e39b9987278b3e83a0b3bb4fa647a8b457cab07c8af3605",
+      "files": 36
+    },
+    {
+      "name": "external-predictions-and-controls-030.zip",
+      "bytes": 127315316,
+      "sha256": "5ce2f3f5bf0337932589e1189b5e60af067df98146555147983e343323099489",
+      "files": 36
+    },
+    {
+      "name": "external-predictions-and-controls-031.zip",
+      "bytes": 126983607,
+      "sha256": "3399295b552d013b57bceecfaf131e82304ab35b649de0f19f73dd1d3c383e24",
+      "files": 36
+    },
+    {
+      "name": "external-predictions-and-controls-032.zip",
+      "bytes": 126751942,
+      "sha256": "b830156e01e7507a9a73123f5694f0be817ef911da35d0766236e2a4d336c7c8",
+      "files": 36
+    },
+    {
+      "name": "external-predictions-and-controls-033.zip",
+      "bytes": 127096939,
+      "sha256": "cc0103827f865bbd93dae756b3810176d11ac37b0f12405f1ccb893c89b3559b",
+      "files": 36
+    },
+    {
+      "name": "external-predictions-and-controls-034.zip",
+      "bytes": 7030268,
+      "sha256": "4c8f34f15856d257bb91859d2e857cbe7fd7251979293a945f3f23cc4a2a556a",
+      "files": 1
+    },
+    {
+      "name": "development-models-and-predictions-001.zip",
+      "bytes": 138459678,
+      "sha256": "cebc53e691973824e268663e01860e92b50404f2067309ddc428e95b10780770",
+      "files": 70
+    },
+    {
+      "name": "development-models-and-predictions-002.zip",
+      "bytes": 189548587,
+      "sha256": "07908a525fe658b3b37f3d2c2ba60c27c1fcb1f1c9717778edd6b2aed81834b2",
+      "files": 48
+    },
+    {
+      "name": "development-models-and-predictions-003.zip",
+      "bytes": 166522406,
+      "sha256": "f908a37e7620b05b850c2aae99ba42c0e20c127dfa12008ed92f042cbc5baf85",
+      "files": 46
+    },
+    {
+      "name": "development-models-and-predictions-004.zip",
+      "bytes": 244107014,
+      "sha256": "5569c58b7005953b615acec88fb05cae868360ad04c573c37f1736a3a4fd860d",
+      "files": 19
+    },
+    {
+      "name": "development-models-and-predictions-005.zip",
+      "bytes": 192726953,
+      "sha256": "9a484b407a350c2d5b4881a290498d3ecf3580dba96e58b73dd0872a8c6f989b",
+      "files": 5
+    },
+    {
+      "name": "development-models-and-predictions-006.zip",
+      "bytes": 57931440,
+      "sha256": "0340833f1aea1f3fb6c5f15fe8b676dafb8a03405cd3481a56e85e0935e3f7e2",
+      "files": 2
+    }
+  ]
+}

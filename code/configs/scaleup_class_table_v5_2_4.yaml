@@ -1,0 +1,26 @@
+protocol:
+  name: robird-p0-v5-2-4-class-table
+  version: p0-v5.2.4-class-table-20260821
+  status: frozen
+  freeze_record: ../../FROZEN_DATASET_P0_V5_2_4_CLASS_TABLE.sha256
+  freeze_required:
+    - ../../DATASET_P0_V5_2_4_CLASS_TABLE_PROTOCOL.md
+    - scaleup_class_table_v5_2_4.yaml
+    - ../scripts/write_replacement_class_table_v5_2_4.py
+    - ../../FROZEN_DATASET_P0_V5_2_4_REPLACEMENT.sha256
+    - ../results/dataset_p0/replacement_attempts_v5_2_4.json
+    - ../results/dataset_p0/replacement_audit_v5_2_4.json
+seed: 20260819
+paths:
+  replacement_audit_json: ../results/dataset_p0/replacement_audit_v5_2_4.json
+  class_table_csv: ../data/manifests/frozen_100_taxa_v5_2_4.csv
+  class_table_audit_json: ../results/dataset_p0/class_table_audit_v5_2_4.json
+selection:
+  expected_species: 100
+  expected_seed_taxa: 78
+  expected_expansion_taxa: 22
+  expected_existing_seed_groups: 2028
+  expected_new_groups: 2972
+  expected_groups: 5000
+  replacement_taxon_id: 4478
+  replacement_scientific_name: Sterna striata

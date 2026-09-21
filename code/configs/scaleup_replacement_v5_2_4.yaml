@@ -1,0 +1,87 @@
+protocol:
+  name: robird-p0-v5-2-4-joint-replacement-audit
+  version: p0-v5.2.4-replacement-20260821
+  status: frozen
+  freeze_record: ../../FROZEN_DATASET_P0_V5_2_4_REPLACEMENT.sha256
+  freeze_required:
+    - ../../DATASET_P0_V5_2_4_REPLACEMENT_PROTOCOL.md
+    - scaleup_replacement_v5_2_4.yaml
+    - ../scripts/audit_scaleup_replacement_v5_2_4.py
+    - ../../FROZEN_DATASET_P0_V5_2_3_REPLACEMENT.sha256
+    - ../../DATASET_P0_V5_2_3_REPLACEMENT_PROTOCOL.md
+    - scaleup_replacement_v5_2_3.yaml
+    - ../scripts/audit_scaleup_replacement_v5_2_3.py
+    - ../../FROZEN_DATASET_P0_V5_2_2_REPLACEMENT.sha256
+    - ../../DATASET_P0_V5_2_2_REPLACEMENT_PROTOCOL.md
+    - scaleup_replacement_v5_2_2.yaml
+    - ../scripts/audit_scaleup_replacement_v5_2_2.py
+    - ../../FROZEN_DATASET_P0_V5_2_1_REPLACEMENT.sha256
+    - ../../DATASET_P0_V5_2_1_REPLACEMENT_PROTOCOL.md
+    - scaleup_replacement_v5_2_1.yaml
+    - ../scripts/audit_scaleup_replacement_v5_2_1.py
+    - ../../FROZEN_DATASET_P0_V5_2_REPLACEMENT.sha256
+    - ../../DATASET_P0_V5_2_REPLACEMENT_PROTOCOL.md
+    - scaleup_replacement_v5_2.yaml
+    - ../scripts/audit_scaleup_replacement_v5_2.py
+    - ../../FROZEN_DATASET_P0_V5_1_CENSUS.sha256
+    - ../../DATASET_P0_V5_1_CENSUS_PROTOCOL.md
+    - scaleup_census_v5_1.yaml
+    - ../results/dataset_p0/census_candidates_v5_1.json
+    - ../results/dataset_p0/census_audit_v5_1.json
+    - ../../FROZEN_DATASET_P0_V4.sha256
+    - ../../DATASET_P0_V4_PROTOCOL.md
+    - scaleup_p0_v4.yaml
+    - ../data/manifests/frozen_100_taxa_v4.csv
+    - ../results/scaleup_feasibility/audit.json
+    - ../results/dataset_p0/scaleup_selection_audit_v4.json
+    - ../results/dataset_p0/scaleup_candidates_v4.json
+seed: 20260819
+removed_seed_taxon_id: 145275
+historical_removed_seed_taxon_id: 145224
+removed_seed_scientific_name: Cardellina canadensis
+paths:
+  original_manifest_csv: ../../../Unseen-View-Evidence-Bounds/code/data/p0_manifest.csv
+  original_source_json: ../../../experiments/real_observation_counterfactual/results/d1_manifest.json
+  original_download_ledger: ../../../experiments/real_observation_counterfactual/results/d1_downloads.json
+  confirmation_manifest_csv: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_manifest.csv
+  confirmation_source_json: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_manifest.json
+  confirmation_download_ledger: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_downloads.json
+  feasibility_audit_json: ../results/scaleup_feasibility/audit.json
+  frozen_taxa_v4_csv: ../data/manifests/frozen_100_taxa_v4.csv
+  v4_config_yaml: ../configs/scaleup_p0_v4.yaml
+  v5_1_snapshot_json: ../results/dataset_p0/census_candidates_v5_1.json
+  v5_1_audit_json: ../results/dataset_p0/census_audit_v5_1.json
+  attempts_json: ../results/dataset_p0/replacement_attempts_v5_2_4.json
+  audit_json: ../results/dataset_p0/replacement_audit_v5_2_4.json
+selection:
+  final_groups_per_species_min: 48
+  final_groups_per_species_max: 52
+  candidate_multiplier: 4
+  max_groups_per_new_observer: 1
+  expected_species: 100
+  expected_groups: 5000
+  expected_current_seed_taxa: 78
+  expected_expansion_taxa: 22
+  expected_new_groups: 2972
+  replacement_rule: first_v5_1_pool_order_candidate_passing_global_milp_and_metadata_gates
+source:
+  photo_licenses:
+    - cc0
+    - cc-by
+    - cc-by-sa
+  min_photos_per_group: 2
+  max_photos_per_group: 5
+audit:
+  expected_v5_1_snapshot_sha256: 5b2926e63f6614ddd3bcd87f95a287abf62fc8d278835b011ae5634d4eeb811f
+  expected_v5_1_audit_sha256: fda15de85da3a3052793f90b62b616480584391b8fa46a01518d418780c8b59e
+  expected_v5_1_snapshot_status: COMPLETE
+  expected_v5_1_audit_status: COMPLETE_P0_V5_PRESELECTION_CENSUS
+  expected_v5_1_taxa: 141
+  expected_v5_1_groups: 15392
+  expected_v5_1_current_shortfalls: 1
+  expected_v5_1_reserve_feasible: 41
+  expected_v5_1_reserve_individually_feasible: 41
+  expected_v5_1_reserve_shortfalls: 0
+  expected_v5_1_removed_taxon_id: 145275
+  expected_v5_1_removed_retained_candidates: 20
+  expected_v5_1_removed_lower_target: 22

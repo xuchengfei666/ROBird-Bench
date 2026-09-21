@@ -1,0 +1,56 @@
+protocol:
+  name: robird-feature-benchmark
+  version: draft-20260819
+  status: draft_not_frozen
+  freeze_record: ../../FROZEN_DATASET_P0.sha256
+  freeze_required:
+    - ../../DRAFT_DATASET_P0_PROTOCOL.md
+    - dataset_p0.yaml
+    - scaleup_p0.yaml
+    - ../data/manifests/frozen_100_taxa.csv
+    - benchmark.yaml
+seed: 20260819
+paths:
+  manifest_csv: ../data/manifests/development_photos.csv
+  splits_csv: ../data/manifests/development_splits.csv
+  dataset_audit_json: ../results/dataset_p0/audit.json
+  feature_matrix: E:/Datasets/ROBird-Bench/features/dinov2_vits14/features.npy
+  feature_index_csv: E:/Datasets/ROBird-Bench/features/dinov2_vits14/index.csv
+  result_root: ../results/benchmark
+data:
+  max_views: 5
+  exhaustive_subsets: true
+  max_subsets_per_budget: 32
+  train_subset_mode: random
+  eval_subset_mode: exhaustive
+  num_workers: 0
+model:
+  name: mean_feature
+  feature_dim: 384
+  hidden_dim: 512
+  num_heads: 4
+  num_layers: 2
+  dropout: 0.1
+  rival_top_k: 5
+  use_rival_conditioning: true
+  use_mean_path: true
+training:
+  budget: null
+  batch_size: 64
+  epochs: 60
+  learning_rate: 0.0003
+  weight_decay: 0.0001
+  patience: 10
+  label_smoothing: 0.0
+evaluation:
+  budgets:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+  topk:
+    - 1
+    - 5
+  ece_bins: 15
+  bootstrap_repeats: 10000

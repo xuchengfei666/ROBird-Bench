@@ -1,0 +1,101 @@
+class_index,common_name,existing_groups,family,genus,new_group_target,origin,scientific_name,taxon_id,taxonomy_category_id
+0,belted kingfisher,26,Alcedinidae,Megaceryle,24,inspected_seed,Megaceryle alcyon,2548,
+1,eared grebe,26,Podicipedidae,Podiceps,24,inspected_seed,Podiceps nigricollis,4205,
+2,horned grebe,26,Podicipedidae,Podiceps,24,inspected_seed,Podiceps auritus,4209,
+3,western grebe,26,Podicipedidae,Aechmophorus,24,inspected_seed,Aechmophorus occidentalis,4235,
+4,brown pelican,26,Pelecanidae,Pelecanus,24,inspected_seed,Pelecanus occidentalis,4328,
+5,western gull,26,Laridae,Larus,24,inspected_seed,Larus occidentalis,4345,
+6,california gull,26,Laridae,Larus,24,inspected_seed,Larus californicus,4385,
+7,pigeon guillemot,26,Alcidae,Cepphus,24,inspected_seed,Cepphus columba,4415,
+8,common tern,26,Laridae,Sterna,24,inspected_seed,Sterna hirundo,4450,
+9,black tern,26,Laridae,Chlidonias,24,inspected_seed,Chlidonias niger,4512,
+10,pacific loon,26,Gaviidae,Gavia,24,inspected_seed,Gavia pacifica,4621,
+11,rufous hummingbird,26,Trochilidae,Selasphorus,24,inspected_seed,Selasphorus rufus,6363,
+12,mallard,26,Anatidae,Anas,24,inspected_seed,Anas platyrhynchos,6930,
+13,hooded merganser,26,Anatidae,Lophodytes,24,inspected_seed,Lophodytes cucullatus,7109,
+14,horned lark,26,Alaudidae,Eremophila,24,inspected_seed,Eremophila alpestris,7294,
+15,cedar waxwing,26,Bombycillidae,Bombycilla,24,inspected_seed,Bombycilla cedrorum,7428,
+16,brown creeper,26,Certhiidae,Certhia,24,inspected_seed,Certhia americana,7458,
+17,cactus wren,26,Troglodytidae,Campylorhynchus,24,inspected_seed,Campylorhynchus brunneicapillus,7470,
+18,carolina wren,26,Troglodytidae,Thryothorus,24,inspected_seed,Thryothorus ludovicianus,7513,
+19,marsh wren,26,Troglodytidae,Cistothorus,24,inspected_seed,Cistothorus palustris,7601,
+20,fish crow,26,Corvidae,Corvus,24,inspected_seed,Corvus ossifragus,8001,
+21,common raven,26,Corvidae,Corvus,24,inspected_seed,Corvus corax,8010,
+22,american crow,26,Corvidae,Corvus,24,inspected_seed,Corvus brachyrhynchos,8021,
+23,blue jay,26,Corvidae,Cyanocitta,24,inspected_seed,Cyanocitta cristata,8229,
+24,song sparrow,26,Passerellidae,Melospiza,24,inspected_seed,Melospiza melodia,9100,
+25,chipping sparrow,26,Passerellidae,Spizella,24,inspected_seed,Spizella passerina,9135,
+26,field sparrow,26,Passerellidae,Spizella,24,inspected_seed,Spizella pusilla,9152,
+27,fox sparrow,26,Passerellidae,Passerella,24,inspected_seed,Passerella iliaca,9156,
+28,hooded oriole,26,Icteridae,Icterus,24,inspected_seed,Icterus cucullatus,9319,
+29,orchard oriole,26,Icteridae,Icterus,24,inspected_seed,Icterus spurius,9325,
+30,baltimore oriole,26,Icteridae,Icterus,24,inspected_seed,Icterus galbula,9346,
+31,eastern towhee,26,Passerellidae,Pipilo,24,inspected_seed,Pipilo erythrophthalmus,9424,
+32,western meadowlark,26,Icteridae,Sturnella,24,inspected_seed,Sturnella neglecta,9535,
+33,common yellowthroat,26,Parulidae,Geothlypis,24,inspected_seed,Geothlypis trichas,9721,
+34,pine grosbeak,26,Fringillidae,Pinicola,24,inspected_seed,Pinicola enucleator,9771,
+35,summer tanager,26,Cardinalidae,Piranga,24,inspected_seed,Piranga rubra,9915,
+36,scarlet tanager,26,Cardinalidae,Piranga,24,inspected_seed,Piranga olivacea,9921,
+37,savannah sparrow,26,Passerellidae,Passerculus,24,inspected_seed,Passerculus sandwichensis,9981,
+38,vesper sparrow,26,Passerellidae,Pooecetes,24,inspected_seed,Pooecetes gramineus,10168,
+39,painted bunting,26,Cardinalidae,Passerina,24,inspected_seed,Passerina ciris,10224,
+40,indigo bunting,26,Cardinalidae,Passerina,24,inspected_seed,Passerina cyanea,10227,
+41,lazuli bunting,26,Cardinalidae,Passerina,24,inspected_seed,Passerina amoena,10234,
+42,american redstart,26,Parulidae,Setophaga,24,inspected_seed,Setophaga ruticilla,10247,
+43,rusty blackbird,26,Icteridae,Euphagus,24,inspected_seed,Euphagus carolinus,10322,
+44,bobolink,26,Icteridae,Dolichonyx,24,inspected_seed,Dolichonyx oryzivorus,10487,
+45,prothonotary warbler,26,Parulidae,Protonotaria,24,inspected_seed,Protonotaria citrea,10729,
+46,cliff swallow,26,Hirundinidae,Petrochelidon,24,inspected_seed,Petrochelidon pyrrhonota,11858,
+47,barn swallow,26,Hirundinidae,Hirundo,24,inspected_seed,Hirundo rustica,11901,
+48,tree swallow,26,Hirundinidae,Tachycineta,24,inspected_seed,Tachycineta bicolor,11935,
+49,loggerhead shrike,26,Laniidae,Lanius,24,inspected_seed,Lanius ludovicianus,12024,
+50,american pipit,26,Motacillidae,Anthus,24,inspected_seed,Anthus rubescens,13732,
+51,brown thrasher,26,Mimidae,Toxostoma,24,inspected_seed,Toxostoma rufum,14898,
+52,gray catbird,26,Mimidae,Dumetella,24,inspected_seed,Dumetella carolinensis,14995,
+53,great crested flycatcher,26,Tyrannidae,Myiarchus,24,inspected_seed,Myiarchus crinitus,16028,
+54,vermilion flycatcher,26,Tyrannidae,Pyrocephalus,24,inspected_seed,Pyrocephalus rubinus,16447,
+55,least flycatcher,26,Tyrannidae,Empidonax,24,inspected_seed,Empidonax minimus,16602,
+56,pileated woodpecker,26,Picidae,Dryocopus,24,inspected_seed,Dryocopus pileatus,17855,
+57,northern flicker,26,Picidae,Colaptes,24,inspected_seed,Colaptes auratus,18236,
+58,ovenbird,26,Parulidae,Seiurus,24,inspected_seed,Seiurus aurocapilla,62550,
+59,louisiana waterthrush,26,Parulidae,Parkesia,24,inspected_seed,Parkesia motacilla,73148,
+60,northern waterthrush,26,Parulidae,Parkesia,24,inspected_seed,Parkesia noveboracensis,73149,
+61,blue grosbeak,26,Cardinalidae,Passerina,24,inspected_seed,Passerina caerulea,73155,
+62,caspian tern,26,Laridae,Hydroprogne,24,inspected_seed,Hydroprogne caspia,144537,
+63,winter wren,26,Troglodytidae,Troglodytes,24,inspected_seed,Troglodytes hiemalis,144883,
+64,hooded warbler,26,Parulidae,Setophaga,24,inspected_seed,Setophaga citrina,145229,
+65,cape may warbler,26,Parulidae,Setophaga,24,inspected_seed,Setophaga tigrina,145231,
+66,magnolia warbler,26,Parulidae,Setophaga,24,inspected_seed,Setophaga magnolia,145235,
+67,palm warbler,26,Parulidae,Setophaga,24,inspected_seed,Setophaga palmarum,145242,
+68,pine warbler,26,Parulidae,Setophaga,24,inspected_seed,Setophaga pinus,145244,
+69,prairie warbler,26,Parulidae,Setophaga,24,inspected_seed,Setophaga discolor,145249,
+70,White-fronted Tern,0,Laridae,Sterna,50,inat2021_taxonomic_neighbor,Sterna striata,4478,3434.0
+71,american goldfinch,26,Fringillidae,Spinus,24,inspected_seed,Spinus tristis,145310,
+72,purple finch,26,Fringillidae,Haemorhous,24,inspected_seed,Haemorhous purpureus,199841,
+73,gadwall,26,Anatidae,Mareca,24,inspected_seed,Mareca strepera,558439,
+74,downy woodpecker,26,Picidae,Dryobates,24,inspected_seed,Dryobates pubescens,792988,
+75,nashville warbler,26,Parulidae,Leiothlypis,24,inspected_seed,Leiothlypis ruficapilla,979753,
+76,tennessee warbler,26,Parulidae,Leiothlypis,24,inspected_seed,Leiothlypis peregrina,979756,
+77,pelagic cormorant,26,,Urile,24,inspected_seed,Urile pelagicus,1289605,
+78,evening grosbeak,26,,Hesperiphona,24,inspected_seed,Hesperiphona vespertina,1650411,
+79,Arctic Tern,0,Laridae,Sterna,50,inat2021_taxonomic_neighbor,Sterna paradisaea,4449,3433.0
+80,Northern Pintail,0,Anatidae,Anas,50,inat2021_taxonomic_neighbor,Anas acuta,6933,3191.0
+81,White-cheeked Pintail,0,Anatidae,Anas,50,inat2021_taxonomic_neighbor,Anas bahamensis,6951,3192.0
+82,Chestnut Teal,0,Anatidae,Anas,50,inat2021_taxonomic_neighbor,Anas castanea,6958,3193.0
+83,Green-winged Teal,0,Anatidae,Anas,50,inat2021_taxonomic_neighbor,Anas crecca,6937,3194.0
+84,Yellow-billed Teal,0,Anatidae,Anas,50,inat2021_taxonomic_neighbor,Anas flavirostris,6947,3197.0
+85,Yellow-billed Pintail,0,Anatidae,Anas,50,inat2021_taxonomic_neighbor,Anas georgica,6988,3199.0
+86,Grey Teal,0,Anatidae,Anas,50,inat2021_taxonomic_neighbor,Anas gracilis,6969,3200.0
+87,Pacific Black Duck,0,Anatidae,Anas,50,inat2021_taxonomic_neighbor,Anas superciliosa,6987,3204.0
+88,Eurasian Wigeon,0,Anatidae,Mareca,50,inat2021_taxonomic_neighbor,Mareca penelope,558441,3254.0
+89,Black Guillemot,0,Alcidae,Cepphus,50,inat2021_taxonomic_neighbor,Cepphus grylle,4418,3340.0
+90,Whiskered Tern,0,Laridae,Chlidonias,50,inat2021_taxonomic_neighbor,Chlidonias hybrida,62148,3392.0
+91,White-winged Tern,0,Laridae,Chlidonias,50,inat2021_taxonomic_neighbor,Chlidonias leucopterus,4514,3393.0
+92,European Herring Gull,0,Laridae,Larus,50,inat2021_taxonomic_neighbor,Larus argentatus,204533,3409.0
+93,Caspian Gull,0,Laridae,Larus,50,inat2021_taxonomic_neighbor,Larus cachinnans,4389,3410.0
+94,Common Gull,0,Laridae,Larus,50,inat2021_taxonomic_neighbor,Larus canus,4356,3412.0
+95,Kelp Gull,0,Laridae,Larus,50,inat2021_taxonomic_neighbor,Larus dominicanus,4388,3415.0
+96,Lesser Black-backed Gull,0,Laridae,Larus,50,inat2021_taxonomic_neighbor,Larus fuscus,4381,3416.0
+97,Great Black-backed Gull,0,Laridae,Larus,50,inat2021_taxonomic_neighbor,Larus marinus,4368,3422.0
+98,Yellow-legged Gull,0,Laridae,Larus,50,inat2021_taxonomic_neighbor,Larus michahellis,59202,3423.0
+99,Pacific Gull,0,Laridae,Larus,50,inat2021_taxonomic_neighbor,Larus pacificus,4390,3425.0

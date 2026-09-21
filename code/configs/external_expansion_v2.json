@@ -1,0 +1,22 @@
+{
+  "version": "external_expansion_v2",
+  "data_root": "E:/Datasets/ROBird-Bench/external_expansion_v2",
+  "parent_config": "code/configs/external_cohort_v1_5.json",
+  "taxon_manifest": "code/data/manifests/development_photos_v5_3.csv",
+  "old_external_manifest": "code/results/external_cohort_v1_5/reused_source_relations.csv",
+  "cached_census": "E:/Datasets/ROBird-Bench/rsos_serial_v1/holdout_metadata",
+  "created_d2": "2026-09-08T00:00:00Z",
+  "min_observers": 8,
+  "sensitivity_min_observers": 10,
+  "target_observers": 20,
+  "max_groups_per_observer_taxon": 2,
+  "max_pages_per_taxon": 100,
+  "per_page": 200,
+  "daily_request_limit": 5000,
+  "request_interval_seconds": 2.0,
+  "request_attempts": 5,
+  "download_minimum_taxa_exclusive": 13,
+  "bootstrap_repeats": 5000,
+  "signflip_repeats": 9999,
+  "original_g6_pass": false
+}

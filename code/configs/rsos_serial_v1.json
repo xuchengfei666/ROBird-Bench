@@ -1,0 +1,9 @@
+{
+  "data_root": "E:/Datasets/ROBird-Bench/rsos_serial_v1",
+  "dino_features": "E:/Datasets/ROBird-Bench/features/dinov2_vits14_224_v5_3/features.npy",
+  "dino_index": "E:/Datasets/ROBird-Bench/features/dinov2_vits14_224_v5_3/index.csv",
+  "exclusion_manifests": [
+    "code/data/manifests/development_photos_v5_3.csv",
+    "code/data/manifests/development_splits_v5_3.csv"
+  ]
+}

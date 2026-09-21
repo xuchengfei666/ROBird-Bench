@@ -1,0 +1,21 @@
+{
+  "version": "external_expansion_v2_2",
+  "source_report": "code/results/external_expansion_v2_1",
+  "source_data": "E:/Datasets/ROBird-Bench/external_expansion_v2_1",
+  "parent_freeze": "FROZEN_EXTERNAL_EXPANSION_V2_1.json",
+  "parent_sha256": "6e5cecd4680aa8869cd4aa61d6788c9c1848baa567536f491d6dbde3f1e96112",
+  "review_report": "code/results/external_expansion_duplicate_review_v1",
+  "review_sha256": "e538a42d8aa44be78e18ff0781fbc6cc0afc9d399cbca7472e0a480bfb45a92a",
+  "impact_sha256": "b71386ca20013764f431629da677a8be83c9382cb516094d61a94e059d30158c",
+  "data_root": "E:/Datasets/ROBird-Bench/external_expansion_v2_2",
+  "representative_rule": "minimum_photo_id_in_same_frame_component",
+  "duplicate_decisions": ["EXACT_WITHIN_OBSERVATION", "NEAR_DUPLICATE_WITHIN_OBSERVATION"],
+  "min_unique_photos": 2,
+  "min_observers": 8,
+  "sensitivity_min_observers": 10,
+  "expected_primary": {"photos": 3090, "groups": 1121, "observers": 759, "taxa": 56, "strict10_taxa": 50},
+  "expected_exclude_affected": {"photos": 3063, "groups": 1112, "observers": 755, "taxa": 56, "strict10_taxa": 50},
+  "expected_affected_observations": 13,
+  "expected_pairs": 392,
+  "original_g6_pass": false
+}

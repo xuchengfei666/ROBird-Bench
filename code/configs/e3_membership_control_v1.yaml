@@ -1,0 +1,45 @@
+protocol:
+  name: robird-v5-3-e3-membership-control-v1
+  version: e3-membership-control-v1-20260905
+  status: frozen
+  freeze_record: ../../FROZEN_E3_MEMBERSHIP_CONTROL_V1.sha256
+  freeze_required:
+    - ../../E3_MEMBERSHIP_CONTROL_PROTOCOL_V1.md
+    - e3_membership_control_v1.yaml
+    - ../scripts/run_e3_membership_control_v1.py
+    - ../src/robird/supplements.py
+    - ../data/manifests/development_photos_v5_3.csv
+    - ../data/manifests/development_splits_v5_3.csv
+    - ../results/dataset_p0/audit_v5_3.json
+    - E:/Datasets/ROBird-Bench/features/dinov2_vits14_224_v5_3/features.npy
+    - E:/Datasets/ROBird-Bench/features/dinov2_vits14_224_v5_3/index.csv
+    - ../results/benchmark_v5_3_p4_1/deepsets-all/best.pth
+    - ../results/benchmark_v5_3_p4_1/set-transformer-all/best.pth
+    - ../results/benchmark_v5_3_p4_1/rcca-all/best.pth
+    - ../results/benchmark_v5_3_p4_1/max-feature-all/best.pth
+seed: 20260819
+paths:
+  manifest_csv: ../data/manifests/development_photos_v5_3.csv
+  splits_csv: ../data/manifests/development_splits_v5_3.csv
+  dataset_audit_json: ../results/dataset_p0/audit_v5_3.json
+  feature_matrix: E:/Datasets/ROBird-Bench/features/dinov2_vits14_224_v5_3/features.npy
+  feature_index_csv: E:/Datasets/ROBird-Bench/features/dinov2_vits14_224_v5_3/index.csv
+  result_root: ../results/benchmark_v5_3_e3_membership_v1
+  checkpoints:
+    deepsets: ../results/benchmark_v5_3_p4_1/deepsets-all/best.pth
+    set_transformer: ../results/benchmark_v5_3_p4_1/set-transformer-all/best.pth
+    rcca: ../results/benchmark_v5_3_p4_1/rcca-all/best.pth
+    max_feature: ../results/benchmark_v5_3_p4_1/max-feature-all/best.pth
+data:
+  eval_subset_mode: exhaustive
+  max_subsets_per_budget: 32
+training:
+  batch_size: 64
+evaluation:
+  split: development_test
+  budgets: [1, 2, 3, 4, 5]
+  topk: [1, 5]
+  ece_bins: 15
+  bootstrap_repeats: 2000
+experiment:
+  split: development_test

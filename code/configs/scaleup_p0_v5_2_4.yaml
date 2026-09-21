@@ -1,0 +1,58 @@
+protocol:
+  name: robird-scaleup-p0-v5-2-4-metadata
+  version: p0-v5.2.4-metadata-20260821
+  status: frozen
+  freeze_record: ../../FROZEN_DATASET_P0_V5_2_4_METADATA.sha256
+  freeze_required:
+    - ../../DATASET_P0_V5_2_4_METADATA_PROTOCOL.md
+    - scaleup_p0_v5_2_4.yaml
+    - ../scripts/build_replacement_metadata_manifest_v5_2_4.py
+    - ../scripts/download_scaleup_images.py
+    - ../../FROZEN_DATASET_P0_V5_2_4_CLASS_TABLE.sha256
+    - ../data/manifests/frozen_100_taxa_v5_2_4.csv
+    - ../results/dataset_p0/class_table_audit_v5_2_4.json
+    - ../../FROZEN_DATASET_P0_V5_2_4_REPLACEMENT.sha256
+    - ../results/dataset_p0/replacement_attempts_v5_2_4.json
+    - ../results/dataset_p0/replacement_audit_v5_2_4.json
+seed: 20260819
+paths:
+  original_manifest_csv: ../../../Unseen-View-Evidence-Bounds/code/data/p0_manifest.csv
+  original_source_json: ../../../experiments/real_observation_counterfactual/results/d1_manifest.json
+  original_download_ledger: ../../../experiments/real_observation_counterfactual/results/d1_downloads.json
+  confirmation_manifest_csv: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_manifest.csv
+  confirmation_source_json: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_manifest.json
+  confirmation_download_ledger: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_downloads.json
+  class_table_csv: ../data/manifests/frozen_100_taxa_v5_2_4.csv
+  class_table_audit_json: ../results/dataset_p0/class_table_audit_v5_2_4.json
+  replacement_audit_json: ../results/dataset_p0/replacement_audit_v5_2_4.json
+  metadata_manifest_csv: ../data/manifests/p0_metadata_photos_v5_2_4.csv
+  selection_audit_json: ../results/dataset_p0/metadata_manifest_audit_v5_2_4.json
+  canonical_manifest_csv: ../data/manifests/development_photos_v5_2_4.csv
+  download_root: E:/Datasets/ROBird-Bench/p0-v5_2_4/images
+  download_ledger_json: E:/Datasets/ROBird-Bench/p0-v5_2_4/metadata/download_ledger.json
+selection:
+  mode: bounded_total
+  final_groups_per_species_min: 48
+  final_groups_per_species_max: 52
+  expected_species: 100
+  expected_groups: 5000
+  expected_seed_groups: 2028
+  expected_new_groups: 2972
+  expected_photos_minimum: 12000
+source:
+  photo_licenses:
+    - cc0
+    - cc-by
+    - cc-by-sa
+  min_photos_per_group: 2
+  max_photos_per_group: 5
+taxonomy:
+  historical_removed_seed_taxon_id: 145224
+  removed_seed_taxon_id: 145275
+  expected_seed_taxa: 78
+download:
+  max_workers: 8
+  request_attempts: 5
+  timeout_seconds: 90
+  checkpoint_every: 50
+  max_failures_before_stop: 20

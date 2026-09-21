@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+downloads/
+artifacts/
+recomputed*.csv
+recomputed*.json
+*.pyc
+*.tmp
+.env

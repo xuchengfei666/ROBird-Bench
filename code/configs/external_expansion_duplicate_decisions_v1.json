@@ -1,0 +1,2009 @@
+{
+  "reviewer_type": "AI_ASSISTED_VISUAL_REVIEW",
+  "independent_human_adjudication": false,
+  "outcome_blinded": true,
+  "review_date_local": "2026-09-19",
+  "pairs": [
+    {
+      "pair_id": 0,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk-perched bird versus three flying silhouettes in open sky."
+    },
+    {
+      "pair_id": 1,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk-perched bird versus pond viewed through a circular optical vignette."
+    },
+    {
+      "pair_id": 2,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus flight over blue sea."
+    },
+    {
+      "pair_id": 3,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus flight over open water."
+    },
+    {
+      "pair_id": 4,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus two swimming birds."
+    },
+    {
+      "pair_id": 5,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus diving waterbird."
+    },
+    {
+      "pair_id": 6,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus waterbird on gray water."
+    },
+    {
+      "pair_id": 7,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus isolated flying silhouette."
+    },
+    {
+      "pair_id": 8,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus flying bird in pale blue sky."
+    },
+    {
+      "pair_id": 9,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus distant swimming group near built shore."
+    },
+    {
+      "pair_id": 10,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus swimming bird and water wake."
+    },
+    {
+      "pair_id": 11,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus close flying silhouette."
+    },
+    {
+      "pair_id": 12,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus bird on horizontal wire."
+    },
+    {
+      "pair_id": 13,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus isolated sky silhouette."
+    },
+    {
+      "pair_id": 14,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus small sky silhouette."
+    },
+    {
+      "pair_id": 15,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus banking bird in sky."
+    },
+    {
+      "pair_id": 16,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Large horizontal trunk and dark foliage versus thin branching twigs and optical vignette."
+    },
+    {
+      "pair_id": 17,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Large horizontal trunk versus different thin-twig perch and vignette."
+    },
+    {
+      "pair_id": 18,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk perch versus shore flock through optical vignette."
+    },
+    {
+      "pair_id": 19,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk perch versus gulls on exposed mudflat."
+    },
+    {
+      "pair_id": 20,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Woodland trunk scene versus marina/sailboat and distant mountains."
+    },
+    {
+      "pair_id": 21,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single trunk-perched bird versus airborne flock."
+    },
+    {
+      "pair_id": 22,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk perch versus bathing bird on water."
+    },
+    {
+      "pair_id": 23,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk perch versus swimming silhouette on rippled water."
+    },
+    {
+      "pair_id": 24,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk perch versus swimming silhouette; backgrounds and subject geometry differ."
+    },
+    {
+      "pair_id": 25,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk perch versus low flight over water."
+    },
+    {
+      "pair_id": 26,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk perch versus pale swimming gull."
+    },
+    {
+      "pair_id": 27,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk perch versus sandbar flock across water."
+    },
+    {
+      "pair_id": 28,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk perch versus sandbar and gull group."
+    },
+    {
+      "pair_id": 29,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk perch versus close gull flight against blue sky."
+    },
+    {
+      "pair_id": 30,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk perch versus wide sky/moon coastal scene."
+    },
+    {
+      "pair_id": 31,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk perch versus tiny floating bird on blue water."
+    },
+    {
+      "pair_id": 32,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Trunk perch versus distant floating bird on blue rippled water."
+    },
+    {
+      "pair_id": 33,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Horizontal thick trunk versus thin forked twigs with vignette."
+    },
+    {
+      "pair_id": 34,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Horizontal thick trunk versus distinct thin-twig perch geometry."
+    },
+    {
+      "pair_id": 35,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Woodland perch versus gulls on exposed shore."
+    },
+    {
+      "pair_id": 36,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus a flock spread across open sky."
+    },
+    {
+      "pair_id": 37,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus swimming bird on water."
+    },
+    {
+      "pair_id": 38,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus swimming bird and broad water ripples."
+    },
+    {
+      "pair_id": 39,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus sandbar flock and water."
+    },
+    {
+      "pair_id": 40,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk perch versus shore flock and water."
+    },
+    {
+      "pair_id": 41,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same trunk/foliage observation; perched pose versus open-wing takeoff pose, visibly different frames."
+    },
+    {
+      "pair_id": 42,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Bird flying above thick trunk versus stationary bird on thin bare branches against blue sky."
+    },
+    {
+      "pair_id": 43,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Bird taking off over woodland trunk versus flying gull in open gray sky."
+    },
+    {
+      "pair_id": 44,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wooded trunk takeoff scene versus gull flight on unobstructed sky."
+    },
+    {
+      "pair_id": 45,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same trunk setting but bird posture and framing differ; natural within-observation correlation, not independent views."
+    },
+    {
+      "pair_id": 46,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Enlarged: broad upstroke wings and long bill versus compact orange body with wings tucked; incompatible subject geometry.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_046.jpg"
+    },
+    {
+      "pair_id": 47,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single bird in clear sky versus bird sitting on two wires with vignetted foliage."
+    },
+    {
+      "pair_id": 48,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying dark bird against sky versus swimming black-white bird on textured water."
+    },
+    {
+      "pair_id": 49,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Sky silhouette versus long-necked waterbird viewed through vignette."
+    },
+    {
+      "pair_id": 50,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single sky silhouette versus several long-winged birds in saturated blue sky."
+    },
+    {
+      "pair_id": 51,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single bird versus six-bird flight formation."
+    },
+    {
+      "pair_id": 52,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single dark silhouette versus flock including large pale soaring bird."
+    },
+    {
+      "pair_id": 53,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small dark compact silhouette versus close pale gull with raised wings."
+    },
+    {
+      "pair_id": 54,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small compact dark silhouette versus pale gull with lowered wings."
+    },
+    {
+      "pair_id": 55,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single bird in clear sky versus flock flying low over textured water."
+    },
+    {
+      "pair_id": 56,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Sky silhouette versus fork-tailed flying bird with ground and utility structures."
+    },
+    {
+      "pair_id": 57,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Dark compact silhouette versus white bird with distinct forked-wing geometry."
+    },
+    {
+      "pair_id": 58,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single sky silhouette versus several separated birds."
+    },
+    {
+      "pair_id": 59,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact dark silhouette versus larger pale banking bird under clouds."
+    },
+    {
+      "pair_id": 60,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Unobstructed sky versus swimming bird under concrete wall."
+    },
+    {
+      "pair_id": 61,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single flying silhouette versus group swimming on gray water."
+    },
+    {
+      "pair_id": 62,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Enlarged: long-billed side profile with folded/upstroke wings versus symmetrically outstretched soaring silhouette viewed below.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_062.jpg"
+    },
+    {
+      "pair_id": 63,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Enlarged: long-billed raised-wing side view versus small symmetrically spread-wing silhouette.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_063.jpg"
+    },
+    {
+      "pair_id": 64,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact dark bird versus broad-winged raptor viewed close from below."
+    },
+    {
+      "pair_id": 65,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Clear sky flight versus bird at concrete wall."
+    },
+    {
+      "pair_id": 66,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Clear sky flight versus utility poles/wires and trees."
+    },
+    {
+      "pair_id": 67,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Dark flying silhouette versus brown rounded bird and different posture."
+    },
+    {
+      "pair_id": 68,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact silhouette versus large pointed-wing bird under clouds."
+    },
+    {
+      "pair_id": 69,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact silhouette versus pale long-tailed seabird with one raised wing."
+    },
+    {
+      "pair_id": 70,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Clear sky flight versus birds along sloping shoreline."
+    },
+    {
+      "pair_id": 71,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Clear sky flight versus several birds on wavy water."
+    },
+    {
+      "pair_id": 72,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact dark flight silhouette versus close pale gull with downward-pointing wing."
+    },
+    {
+      "pair_id": 73,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact dark silhouette versus pale gull banking with both wings extended."
+    },
+    {
+      "pair_id": 74,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact silhouette versus close gray gull with extended trailing wing."
+    },
+    {
+      "pair_id": 75,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Dark compact silhouette versus pale banking bird; wing orientation differs."
+    },
+    {
+      "pair_id": 76,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact dark silhouette versus long horizontal-wing pale bird."
+    },
+    {
+      "pair_id": 77,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact dark silhouette versus pale gull banking broadside."
+    },
+    {
+      "pair_id": 78,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact silhouette versus close broad-winged dark bird with visible pale patches."
+    },
+    {
+      "pair_id": 79,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact silhouette versus large raptor-like bird with lowered wings and moon."
+    },
+    {
+      "pair_id": 80,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact silhouette in plain sky versus long narrow silhouette above sea horizon/cloud bands."
+    },
+    {
+      "pair_id": 81,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact silhouette versus brown bird with rounded raised-wing posture."
+    },
+    {
+      "pair_id": 82,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying bird versus long-necked swimming bird in vignette."
+    },
+    {
+      "pair_id": 83,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single compact silhouette versus two separated birds with streaked cloud background."
+    },
+    {
+      "pair_id": 84,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact silhouette versus close white fork-tailed bird turning toward camera."
+    },
+    {
+      "pair_id": 85,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying bird versus three waterbirds on gray ripples."
+    },
+    {
+      "pair_id": 86,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact silhouette versus pale bird with wide outstretched wings."
+    },
+    {
+      "pair_id": 87,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Enlarged: long-billed dark bird with strongly raised wings versus compact orange bird with tucked wing silhouette.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_087.jpg"
+    },
+    {
+      "pair_id": 88,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying bird versus long-necked swimming bird through vignette."
+    },
+    {
+      "pair_id": 89,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single sky silhouette versus multiple soaring birds."
+    },
+    {
+      "pair_id": 90,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single compact bird versus six separated long-winged silhouettes."
+    },
+    {
+      "pair_id": 91,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single dark bird versus many pale birds in sky."
+    },
+    {
+      "pair_id": 92,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact dark bird versus close pale gull raising both wings."
+    },
+    {
+      "pair_id": 93,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Sky silhouette versus two birds on pale water."
+    },
+    {
+      "pair_id": 94,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single sky bird versus low-flying flock over water."
+    },
+    {
+      "pair_id": 95,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Clear sky bird versus swimming bird on blue water with mountain horizon."
+    },
+    {
+      "pair_id": 96,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Sky silhouette versus fork-tailed bird above visible ground/utilities."
+    },
+    {
+      "pair_id": 97,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Dark compact silhouette versus white bird with raised slender wings."
+    },
+    {
+      "pair_id": 98,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single compact sky bird versus three separated long-winged birds."
+    },
+    {
+      "pair_id": 99,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Sky flight versus waterbird beneath concrete wall."
+    },
+    {
+      "pair_id": 100,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single sky bird versus flock on water."
+    },
+    {
+      "pair_id": 101,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Detail view: A is a long-billed side-profile bird in a strong upstroke; B has a small symmetrical soaring outline with laterally spread wings.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_101.jpg"
+    },
+    {
+      "pair_id": 102,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Detail view: long-billed raised-wing side profile in A differs from the symmetrical spread-wing underside silhouette in B.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_102.jpg"
+    },
+    {
+      "pair_id": 103,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Sky flight versus bird beside concrete wall."
+    },
+    {
+      "pair_id": 104,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Unobstructed sky versus poles/wires and treetops."
+    },
+    {
+      "pair_id": 105,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact dark silhouette versus white long-tailed seabird with raised wing."
+    },
+    {
+      "pair_id": 106,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Sky flight versus birds along sloping shore."
+    },
+    {
+      "pair_id": 107,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Sky flight versus swimming group on textured water."
+    },
+    {
+      "pair_id": 108,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact dark flying silhouette versus pale gull with long downstroke wing."
+    },
+    {
+      "pair_id": 109,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact dark silhouette versus larger gray gull with outstretched trailing wing."
+    },
+    {
+      "pair_id": 110,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact dark silhouette versus pale banked wings."
+    },
+    {
+      "pair_id": 111,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact dark silhouette versus narrow extended-wing bird."
+    },
+    {
+      "pair_id": 112,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small dark silhouette versus close broad-winged bird with pale wing patches."
+    },
+    {
+      "pair_id": 113,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small compact silhouette versus large broad-winged bird and moon."
+    },
+    {
+      "pair_id": 114,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Plain blue sky silhouette versus tiny long-winged bird over cloudy horizon."
+    },
+    {
+      "pair_id": 115,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying silhouette versus swimming long-necked waterbird."
+    },
+    {
+      "pair_id": 116,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact silhouette versus close white bird turning with spread tail."
+    },
+    {
+      "pair_id": 117,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Sky silhouette versus three swimming waterbirds."
+    },
+    {
+      "pair_id": 118,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact dark silhouette versus pale spread-wing bird."
+    },
+    {
+      "pair_id": 119,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same observation and similar flight sequence, but enlarged views show differing wingbeat/feather outlines and subject positions; not an exact repeated frame.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_119.jpg"
+    },
+    {
+      "pair_id": 120,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Detail view: A shows a grey underside with rotated broad wings and extended tail; B is an orange side-profile body with tucked wings. Different photographs.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_120.jpg"
+    },
+    {
+      "pair_id": 121,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gray bird in flight versus black-white bird floating on rippled water."
+    },
+    {
+      "pair_id": 122,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gray flight subject versus long-necked bird swimming."
+    },
+    {
+      "pair_id": 123,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single gray flying bird versus multiple long-winged flying silhouettes."
+    },
+    {
+      "pair_id": 124,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single gray flying bird versus six-bird formation."
+    },
+    {
+      "pair_id": 125,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gray underside with extended wings versus pale gull with both wings raised."
+    },
+    {
+      "pair_id": 126,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gray broadside flight versus gull in downstroke."
+    },
+    {
+      "pair_id": 127,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small bird with short tail/spread wings versus much longer tail and different wing proportions."
+    },
+    {
+      "pair_id": 128,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying bird versus swimming flock."
+    },
+    {
+      "pair_id": 129,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A has a broad mottled underside and extended tail at a steep angle; B is a small smooth dark soaring silhouette with different wing/tail proportions.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_129.jpg"
+    },
+    {
+      "pair_id": 130,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gray compact bird in flight versus feather-fingered broad-winged raptor."
+    },
+    {
+      "pair_id": 131,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying bird versus bird adjacent to concrete wall."
+    },
+    {
+      "pair_id": 132,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A is an underside view with rounded broad wings; B has narrow swept pointed wings, and a second bird above it. Different scene.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_132.jpg"
+    },
+    {
+      "pair_id": 133,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact bird underside versus very long pointed wings against cloud."
+    },
+    {
+      "pair_id": 134,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying bird versus birds floating on textured water."
+    },
+    {
+      "pair_id": 135,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Spread-wing compact bird versus pale gull in asymmetrical downstroke."
+    },
+    {
+      "pair_id": 136,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A broad mottled underside with spread tail differs from B pale gull-like banked profile, long narrow wings and contrasting tips.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_136.jpg"
+    },
+    {
+      "pair_id": 137,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A shows broad wings and splayed tail from below; B is a narrow side-on gliding silhouette with strongly different body and wing geometry.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_137.jpg"
+    },
+    {
+      "pair_id": 138,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact bird versus gull with one wing raised and dark long primary tips."
+    },
+    {
+      "pair_id": 139,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A broad-winged mottled underside and spread tail differ from B long-winged pale bird in a raised-wing side view on grey sky.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_139.jpg"
+    },
+    {
+      "pair_id": 140,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flight subject versus swimming long-necked waterbird."
+    },
+    {
+      "pair_id": 141,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A has broad mottled short wings and fanned tail; B has long pale wings with dark tips and narrow tail. Different outline and pose.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_141.jpg"
+    },
+    {
+      "pair_id": 142,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "A broad-winged underside differs from B dark long-billed side profile with raised wings.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_142.jpg"
+    },
+    {
+      "pair_id": 143,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "A broad-winged underside differs from B long-billed dark side profile in an upstroke; no matching subject geometry.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_143.jpg"
+    },
+    {
+      "pair_id": 144,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Dark near-frontal bird with horizontally spread wings versus side-on pale gull raising both wings."
+    },
+    {
+      "pair_id": 145,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Near-frontal spread wings versus pale gull in asymmetrical downstroke."
+    },
+    {
+      "pair_id": 146,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Near-frontal dark silhouette versus side-on pale gull in level flight."
+    },
+    {
+      "pair_id": 147,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Dark bird with broad horizontally extended wings versus compact raised-wing side profile."
+    },
+    {
+      "pair_id": 148,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Frontal spread wings versus compact side profile; wing silhouette differs."
+    },
+    {
+      "pair_id": 149,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same observation flight sequence; horizontal frontal wings versus rotated, banked underside and different wing position."
+    },
+    {
+      "pair_id": 150,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Distant tilted flight silhouette versus pale side-on gull with both wings raised."
+    },
+    {
+      "pair_id": 151,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Narrow tilted flight silhouette versus broad fingered-wing raptor."
+    },
+    {
+      "pair_id": 152,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Angled flying silhouette versus compact brown rounded posture."
+    },
+    {
+      "pair_id": 153,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A has a downward sweeping wing and thin extended tail against cloud-streaked sky; B is a level pale gliding bird with different wing contour and body geometry.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_153.jpg"
+    },
+    {
+      "pair_id": 154,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Tilted extended-wing pose in blue sky with cloud streak versus compact side-on dark silhouette."
+    },
+    {
+      "pair_id": 155,
+      "decision": "NEAR_DUPLICATE_WITHIN_OBSERVATION",
+      "rationale": "Detailed view shows matching crest, bill, body pose, rock texture and moving water ripples throughout both images. Visually the same frame under different photo IDs/bytes; treat as a repeated-frame variant, not an extra independent photo.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_155.jpg"
+    },
+    {
+      "pair_id": 156,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Swimming dark bird with reflection versus white bird perched in bare twigs."
+    },
+    {
+      "pair_id": 157,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Swimming bird and reflection versus bird on horizontal railing against sky."
+    },
+    {
+      "pair_id": 158,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Dark swimming bird with orange head versus pale gull on differently textured water."
+    },
+    {
+      "pair_id": 159,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same night lake/railing scene; visible reflections, water highlights and framing differ; correlated frames within one observation."
+    },
+    {
+      "pair_id": 160,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Two dark long-billed birds flying together versus one pale gull banking."
+    },
+    {
+      "pair_id": 161,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Two large long-billed flying birds versus one tiny compact silhouette; subjects/layout differ."
+    },
+    {
+      "pair_id": 162,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Several flying birds around sun and lens flare versus swimming bird below concrete wall."
+    },
+    {
+      "pair_id": 163,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same gull on coastal monument, but gull placement/head posture, monument framing and surf differ."
+    },
+    {
+      "pair_id": 164,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A contains two pale long-winged birds, one with raised wings; B a single orange tucked-wing silhouette. Different subjects and scene.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_164.jpg"
+    },
+    {
+      "pair_id": 165,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Two flying birds in pale sky versus swimming long-necked bird."
+    },
+    {
+      "pair_id": 166,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Two gulls in pale sky versus multiple long-winged silhouettes in vivid blue sky."
+    },
+    {
+      "pair_id": 167,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Two pale flying gulls versus six dark silhouettes with different wing/body geometry."
+    },
+    {
+      "pair_id": 168,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Side-on gull with bent wing versus smaller white spread-wing profile; no matching pose."
+    },
+    {
+      "pair_id": 169,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Two aerial birds versus flock of swimming birds on textured water."
+    },
+    {
+      "pair_id": 170,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A contains two pale birds with distinct wingbeats; B one small symmetric dark soaring silhouette. Different scene/subject geometry.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_170.jpg"
+    },
+    {
+      "pair_id": 171,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying gulls versus bird at concrete wall."
+    },
+    {
+      "pair_id": 172,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Bent-wing gull versus white long-tailed seabird with tall single wing."
+    },
+    {
+      "pair_id": 173,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying birds against smooth sky versus swimming birds on choppy sea."
+    },
+    {
+      "pair_id": 174,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Larger gull's wings are bent differently and its body/head orientation differs from reference gull."
+    },
+    {
+      "pair_id": 175,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gull side profile with upper dark wing versus bright white gull with spread, curved wings."
+    },
+    {
+      "pair_id": 176,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A shows two birds and the main bird in an upstroke; B is one banked bird with diagonally extended wings. Different wing geometry and scene.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_176.jpg"
+    },
+    {
+      "pair_id": 177,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A main bird has raised wings and another bird above; B is a single near-level gliding silhouette. Different pose and scene.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_177.jpg"
+    },
+    {
+      "pair_id": 178,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Two aerial birds versus long-necked swimming bird."
+    },
+    {
+      "pair_id": 179,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gull side profile versus white bird turning toward camera with splayed tail and opposite wing geometry."
+    },
+    {
+      "pair_id": 180,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Nearer gull has bent-wing side view; reference bird is viewed underneath with wings spread broadly."
+    },
+    {
+      "pair_id": 181,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Two light gulls with one nearer bent-wing body versus one compact dark sky silhouette."
+    },
+    {
+      "pair_id": 182,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Two-gull scene versus single compact dark flight profile; subject geometry differs."
+    },
+    {
+      "pair_id": 183,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Long narrow-wing gull gliding versus tiny compact orange/dark bird with raised wings."
+    },
+    {
+      "pair_id": 184,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gliding gull in sky versus dabbling duck on water."
+    },
+    {
+      "pair_id": 185,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gliding gull versus dabbling duck and partial bird at right on water."
+    },
+    {
+      "pair_id": 186,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Banked long-wing gull from below versus close head-on gull with symmetrical level wings."
+    },
+    {
+      "pair_id": 187,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gliding gull in sky versus duck with head at water surface."
+    },
+    {
+      "pair_id": 188,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Aerial gull versus duck and partial bird standing at water edge."
+    },
+    {
+      "pair_id": 189,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gliding gull in gray sky versus red bird on diagonal wire."
+    },
+    {
+      "pair_id": 190,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale narrow-wing gull versus dark broad-wing silhouette against cloud."
+    },
+    {
+      "pair_id": 191,
+      "decision": "NEAR_DUPLICATE_WITHIN_OBSERVATION",
+      "rationale": "Full/detail views show matching bird pose, roof tiles, reflected clouds, leaves and image framing. Visually repeated frame under different bytes/photo IDs; treat as same-frame variant.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_191.jpg"
+    },
+    {
+      "pair_id": 192,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same gull on streetlight; head angle and framing differ."
+    },
+    {
+      "pair_id": 193,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same beach gull scene, but head/beak posture, foreground birds and framing differ."
+    },
+    {
+      "pair_id": 194,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same vignetted gull on ledge; back-facing head versus clear right-facing profile."
+    },
+    {
+      "pair_id": 195,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying gull above textured sea versus gull banking underside against smooth blue sky."
+    },
+    {
+      "pair_id": 196,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Standing gull on pebbly wet beach versus colored duck swimming on turquoise water."
+    },
+    {
+      "pair_id": 197,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Standing beach gull versus tiny aerial bird in sky."
+    },
+    {
+      "pair_id": 198,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A has visibly open bill, long tail streamer and two differently oriented wings; B closed bill, short tail and a different fanned wing outline. Not the same frame.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_198.jpg"
+    },
+    {
+      "pair_id": 199,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Flying bird against pale sky versus dark swimming bird with wake."
+    },
+    {
+      "pair_id": 200,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same duck by rocks; head direction and water ripple pattern visibly differ."
+    },
+    {
+      "pair_id": 201,
+      "decision": "NEAR_DUPLICATE_WITHIN_OBSERVATION",
+      "rationale": "Both duck positions, wakes, ripple reflections and detailed bank vegetation match. Visually repeated frame under different photo IDs/bytes, not a fresh observation view.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_201.jpg"
+    },
+    {
+      "pair_id": 202,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Duck swimming on textured brown water versus tiny bird in blue sky."
+    },
+    {
+      "pair_id": 203,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Duck on water versus bird beside concrete wall."
+    },
+    {
+      "pair_id": 204,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same bird on round stone but head direction changes; static background expected."
+    },
+    {
+      "pair_id": 205,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same foliage/perch, but enlarged bird has clearly different body/head pose: side-facing orange head in A versus more upright front-facing dark silhouette in B. Distinct frames from same scene.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_205.jpg"
+    },
+    {
+      "pair_id": 206,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same lamp and sky, but bird head turns from left in A to right in B; lamp position/framing also shifts slightly. Distinct within-scene captures.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_206.jpg"
+    },
+    {
+      "pair_id": 207,
+      "decision": "NEAR_DUPLICATE_WITHIN_OBSERVATION",
+      "rationale": "Matching tail-feather speckles, folded body, surrounding beam grain and spots across the image. Visually same frame with different bytes/photo IDs, not independent added evidence.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_207.jpg"
+    },
+    {
+      "pair_id": 208,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same perched brown bird above fence; head direction and body posture differ."
+    },
+    {
+      "pair_id": 209,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Dark flying bird against blue sky versus sailboat on open sea."
+    },
+    {
+      "pair_id": 210,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same nest scene, but camera perspective changes: nest/branch positions relative to underside panel seams and support change, as does framing. Distinct highly redundant captures; no independent scene claim.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_210.jpg"
+    },
+    {
+      "pair_id": 211,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same dark bird on balcony railing; bird position/head posture and framing visibly shifted."
+    },
+    {
+      "pair_id": 212,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same bird on vehicle mirror: crouched/preening posture versus upright profile."
+    },
+    {
+      "pair_id": 213,
+      "decision": "EXACT_WITHIN_OBSERVATION",
+      "rationale": "SHA256 equality confirms identical photo bytes under different photo IDs within one observation; wire and bird identical."
+    },
+    {
+      "pair_id": 214,
+      "decision": "EXACT_WITHIN_OBSERVATION",
+      "rationale": "SHA256 equality confirms same vegetation photograph repeated within one observation."
+    },
+    {
+      "pair_id": 215,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same striped bird on branches; head/body posture changes while branch/fence scene is shared."
+    },
+    {
+      "pair_id": 216,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Feeder scene: bird looking downward versus upright turned head; different body position."
+    },
+    {
+      "pair_id": 217,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Feeder scene: bird on right side versus bird centered and leaning down."
+    },
+    {
+      "pair_id": 218,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Feeder scene: bird front-facing versus right-facing with asymmetric body posture."
+    },
+    {
+      "pair_id": 219,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Feeder scene: front-facing upright versus leaning down in side profile."
+    },
+    {
+      "pair_id": 220,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Feeder scene: front-facing bird versus bird shifted to right with head lowered."
+    },
+    {
+      "pair_id": 221,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same gravel/leaf-litter scene; small bird changes position and outline near edge."
+    },
+    {
+      "pair_id": 222,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same bird in branching vegetation; body/head angle and framing shift."
+    },
+    {
+      "pair_id": 223,
+      "decision": "EXACT_WITHIN_OBSERVATION",
+      "rationale": "Matching SHA256 confirms repeated grass photograph under two photo IDs inside one observation."
+    },
+    {
+      "pair_id": 224,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same garden scene, but bird moves from front-facing near centre-left to side-on farther left; foliage and framing also shift. Different frames.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_224.jpg"
+    },
+    {
+      "pair_id": 225,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Bird is upright alongside a pale stalk in A, horizontal on the branch in B. Same location with clearly different pose/position.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_225.jpg"
+    },
+    {
+      "pair_id": 226,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Yellow bird along diagonal branches: near-horizontal position versus upright turned profile; framing also shifts."
+    },
+    {
+      "pair_id": 227,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same conifer scene; perched bird head/white marking presentation and surrounding framing differ."
+    },
+    {
+      "pair_id": 228,
+      "decision": "EXACT_WITHIN_OBSERVATION",
+      "rationale": "Matching SHA256 proves duplicated yellowish bird-and-planter photograph within one observation."
+    },
+    {
+      "pair_id": 229,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same red bird on tree branch; visible head angle and camera framing differ."
+    },
+    {
+      "pair_id": 230,
+      "decision": "EXACT_WITHIN_OBSERVATION",
+      "rationale": "Matching SHA256 proves repeated red-bird/yard photograph within one observation."
+    },
+    {
+      "pair_id": 231,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same meadow perch; bird head inclination and slight framing differ."
+    },
+    {
+      "pair_id": 232,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same meadow perch; bird angle and focus/framing differ."
+    },
+    {
+      "pair_id": 233,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same meadow scene but bird position in image and head posture differ."
+    },
+    {
+      "pair_id": 234,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same meadow perch; head inclination and scene registration differ."
+    },
+    {
+      "pair_id": 235,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same meadow perch; body/head axis and framing change."
+    },
+    {
+      "pair_id": 236,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same perch but bird head orientation and scene registration differ; no independent-view claim."
+    },
+    {
+      "pair_id": 237,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Nest-camera owl changes head/beak posture and chick configuration."
+    },
+    {
+      "pair_id": 238,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same owl nest-camera scene; adult head faces downward versus sideways, with chick motion."
+    },
+    {
+      "pair_id": 239,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same nest; head/beak position differs visibly."
+    },
+    {
+      "pair_id": 240,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same brown bird among leaves; shifted viewpoint changes leaf occlusion and branch position."
+    },
+    {
+      "pair_id": 241,
+      "decision": "EXACT_WITHIN_OBSERVATION",
+      "rationale": "Matching SHA256 proves identical blue-bird photograph repeated inside one observation."
+    },
+    {
+      "pair_id": 242,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same blue bird at feeder: upright head versus bent head in feeder port."
+    },
+    {
+      "pair_id": 243,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same feeder bird: raised profile versus horizontal forward-leaning posture."
+    },
+    {
+      "pair_id": 244,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Bird flying in blue sky versus sailboat on sea horizon."
+    },
+    {
+      "pair_id": 245,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying bird in blue sky versus blurred duck swimming on gray water."
+    },
+    {
+      "pair_id": 246,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying sky subject versus blurred swimming duck."
+    },
+    {
+      "pair_id": 247,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Two small brownish flying birds with distinct wing shapes versus two dark broad silhouettes; poses/framing differ."
+    },
+    {
+      "pair_id": 248,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Two airborne birds versus bird perched on long wire."
+    },
+    {
+      "pair_id": 249,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Two sky birds versus sailboat and sea."
+    },
+    {
+      "pair_id": 250,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Two small brown flying birds versus four larger pale long-winged birds with different arrangement."
+    },
+    {
+      "pair_id": 251,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Two aerial birds versus blurred duck on water."
+    },
+    {
+      "pair_id": 252,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Two small brown flying birds versus four pale long-winged birds with different geometry/arrangement."
+    },
+    {
+      "pair_id": 253,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Two flying birds versus blurred swimming duck."
+    },
+    {
+      "pair_id": 254,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Two small dark-brown birds versus one large white gull with long wings."
+    },
+    {
+      "pair_id": 255,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Two small birds with compact tails versus single broad fingered-wing raptor silhouette."
+    },
+    {
+      "pair_id": 256,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same sky flight observation; positions, spacing and wingbeat of birds change."
+    },
+    {
+      "pair_id": 257,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Compact brown rounded-wing bird versus pale long-winged gull."
+    },
+    {
+      "pair_id": 258,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Rounded-wing compact brown silhouette versus pointed-wing golden bird with different head/wing posture."
+    },
+    {
+      "pair_id": 259,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Short fan-shaped tail and fully banked underside versus longer forked tail and different wing configuration."
+    },
+    {
+      "pair_id": 260,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Brown short-billed bird above rippled water versus large gull with long wings against blue sky."
+    },
+    {
+      "pair_id": 261,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small bird on diagonal wire versus duck on water."
+    },
+    {
+      "pair_id": 262,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wire-perched small bird versus swimming dark duck with white flank."
+    },
+    {
+      "pair_id": 263,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Wire-perched bird versus dabbling duck on water."
+    },
+    {
+      "pair_id": 264,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gray/black bird on thick sloping wire versus bright red bird on thin oppositely sloped wire."
+    },
+    {
+      "pair_id": 265,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small bird on wire versus larger bird on pipe above tiled roof."
+    },
+    {
+      "pair_id": 266,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Bird perched on tall thin twig versus aerial silhouette in empty sky."
+    },
+    {
+      "pair_id": 267,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Tall curved twig perch versus straight horizontal wire perch."
+    },
+    {
+      "pair_id": 268,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Twig-perched bird versus narrow flying silhouette."
+    },
+    {
+      "pair_id": 269,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Twig perch against sky versus shore flock through vignette."
+    },
+    {
+      "pair_id": 270,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Bird on twig versus swimming bird on dark water."
+    },
+    {
+      "pair_id": 271,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Twig perch versus sandbar flock."
+    },
+    {
+      "pair_id": 272,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Twig perch versus sandbar and water scene."
+    },
+    {
+      "pair_id": 273,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Twig perch versus swimming bird and rippled water."
+    },
+    {
+      "pair_id": 274,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Twig perch versus group standing on distant shore."
+    },
+    {
+      "pair_id": 275,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Twig perch versus shore flock beyond water."
+    },
+    {
+      "pair_id": 276,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Thin twig against smooth sky versus thick trunk backed by dense woodland."
+    },
+    {
+      "pair_id": 277,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same yard camera; close brown bird leans into camera versus upright at right edge."
+    },
+    {
+      "pair_id": 278,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same media-player scene with on-screen times 3:31:04 versus 3:31:02; temporally adjacent screenshot content, not independent acquisition."
+    },
+    {
+      "pair_id": 279,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same bird on lawn; head direction and bird placement/outline change."
+    },
+    {
+      "pair_id": 280,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same red bird on branch; head direction and background/framing differ."
+    },
+    {
+      "pair_id": 281,
+      "decision": "EXACT_WITHIN_OBSERVATION",
+      "rationale": "SHA256 equality confirms repeated tree-and-bird image within one observation."
+    },
+    {
+      "pair_id": 282,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same distant red bird and branches; framing and sky/cloud positions shift."
+    },
+    {
+      "pair_id": 283,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same red bird at branch fork; head angle and perch registration differ."
+    },
+    {
+      "pair_id": 284,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same bare branches, but lower red bird has shifted posture/position and framing differs."
+    },
+    {
+      "pair_id": 285,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same tree; lower red bird posture and scene registration differ."
+    },
+    {
+      "pair_id": 286,
+      "decision": "EXACT_WITHIN_OBSERVATION",
+      "rationale": "Identical SHA256 confirms repeated two-red-birds/tree photo within same observation."
+    },
+    {
+      "pair_id": 287,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same forest-floor duck scene; head tucked/preening versus visible upright head and changed body posture."
+    },
+    {
+      "pair_id": 288,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A is a foreshortened front/underside view with curved wings and triangular tail; B a side/underside glider with straight body and squared tail. Difference is not explained by image rotation or crop.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_288.jpg"
+    },
+    {
+      "pair_id": 289,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same gull on nighttime wall; head direction and framing/background people positions differ."
+    },
+    {
+      "pair_id": 290,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Gull standing on grass versus small bird on thin twig against sky."
+    },
+    {
+      "pair_id": 291,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gull standing on lawn versus dark bird flying in blue sky."
+    },
+    {
+      "pair_id": 292,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gull on lawn versus waterbirds on blue lake with rocks."
+    },
+    {
+      "pair_id": 293,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gull on lawn versus distant moon/cloud coastal landscape."
+    },
+    {
+      "pair_id": 294,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Gull on lawn versus bird taking off from wooded trunk."
+    },
+    {
+      "pair_id": 295,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Lawn gull versus small twig-perched bird against sky."
+    },
+    {
+      "pair_id": 296,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same grassy scene; gull faces sideways versus toward camera, with different framing."
+    },
+    {
+      "pair_id": 297,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Several gulls flying over reflective water versus one small orange/dark bird in blue sky."
+    },
+    {
+      "pair_id": 298,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gulls in flight over water versus resting pale bird on mudflat."
+    },
+    {
+      "pair_id": 299,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Several airborne gulls versus stationary bird on mudflat."
+    },
+    {
+      "pair_id": 300,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Dark long-winged aerial bird versus pale bird resting on concrete platform beside water."
+    },
+    {
+      "pair_id": 301,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Aerial long-wing silhouette versus blurred swimming duck."
+    },
+    {
+      "pair_id": 302,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Long-winged sky subject versus blurred duck on water."
+    },
+    {
+      "pair_id": 303,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Dark banking slender bird versus white gull with different spread-wing profile."
+    },
+    {
+      "pair_id": 304,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Single narrow-wing banking bird versus two small compact birds with different poses."
+    },
+    {
+      "pair_id": 305,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Distant gliding sky bird versus standing gull on wooden post."
+    },
+    {
+      "pair_id": 306,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Vignetted gull on isolated rock versus three ducks swimming in textured water."
+    },
+    {
+      "pair_id": 307,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Gull perched on rock with distant shore versus pale gull swimming on featureless water."
+    },
+    {
+      "pair_id": 308,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Vignetted rock-perched gull versus dark swimming bird and wake."
+    },
+    {
+      "pair_id": 309,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Gull standing on lake rock through vignette versus bird taking off over forest trunk."
+    },
+    {
+      "pair_id": 310,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Gull flying above treetop versus standing beach gull with vignette."
+    },
+    {
+      "pair_id": 311,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Flying gull above tree versus gull standing on sand."
+    },
+    {
+      "pair_id": 312,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Bird in flight against blue sky versus yellow bird lying on ground."
+    },
+    {
+      "pair_id": 313,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Red-billed streamlined pale bird with folded wings versus tiny orange/dark raised-wing bird."
+    },
+    {
+      "pair_id": 314,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Red-billed flying bird versus long-necked swimming bird."
+    },
+    {
+      "pair_id": 315,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "One streamlined flying bird versus multiple spread-wing silhouettes."
+    },
+    {
+      "pair_id": 316,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single folded-wing red-billed bird versus six spread-wing birds."
+    },
+    {
+      "pair_id": 317,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Level streamlined bird versus pale gull with both wings raised; body/wing geometry differs."
+    },
+    {
+      "pair_id": 318,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying bird against pale sky versus waterbird on blue lake below mountain horizon."
+    },
+    {
+      "pair_id": 319,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Level folded-wing red-billed bird versus dark banking silhouette with vertically spread wings."
+    },
+    {
+      "pair_id": 320,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Level red-billed bird versus fork-tailed banked bird over visible ground."
+    },
+    {
+      "pair_id": 321,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A is a long red-billed side profile with swept-back wings; B a distant symmetric spread-wing underside silhouette. Different wing/body geometry.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_321.jpg"
+    },
+    {
+      "pair_id": 322,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Streamlined flight profile versus bird at concrete wall."
+    },
+    {
+      "pair_id": 323,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying red-billed bird versus duck preening on water."
+    },
+    {
+      "pair_id": 324,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Red-billed aerial bird versus swimming group on textured water."
+    },
+    {
+      "pair_id": 325,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A has a red-billed side profile and overlapping swept wings; B shows a banked pale glider with fully extended long wings. Different frame.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_325.jpg"
+    },
+    {
+      "pair_id": 326,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A red-billed side-profile bird with swept wings differs from B a level glider with two long laterally extended wings.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_326.jpg"
+    },
+    {
+      "pair_id": 327,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Slender folded-wing pale bird versus broad-winged dark bird and moon."
+    },
+    {
+      "pair_id": 328,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Flying bird versus swimming long-necked bird."
+    },
+    {
+      "pair_id": 329,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Level folded-wing bird versus gull viewed below with broad wings fully extended."
+    },
+    {
+      "pair_id": 330,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Long-billed pale level-flight bird versus compact raised-wing dark silhouette."
+    },
+    {
+      "pair_id": 331,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Streamlined pale flight profile versus dark compact side silhouette."
+    },
+    {
+      "pair_id": 332,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A pale red-billed bird has visibly raised and extended wings; B compact orange body with wings tucked. Different pose/outline.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_332.jpg"
+    },
+    {
+      "pair_id": 333,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale bird in flight versus black-white duck on rippled water."
+    },
+    {
+      "pair_id": 334,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale aerial bird versus long-necked swimming bird through vignette."
+    },
+    {
+      "pair_id": 335,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single pale flight profile versus several dark long-winged birds."
+    },
+    {
+      "pair_id": 336,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single pale flight profile versus six-bird formation."
+    },
+    {
+      "pair_id": 337,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single pale bird versus multi-bird flock with very different arrangement."
+    },
+    {
+      "pair_id": 338,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale level-flight bird versus gull with both wings strongly raised."
+    },
+    {
+      "pair_id": 339,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale level-flight bird versus large gull with both wings lowered."
+    },
+    {
+      "pair_id": 340,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Sky flight versus two swimming birds on gray water."
+    },
+    {
+      "pair_id": 341,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Sky flight versus flock low over water."
+    },
+    {
+      "pair_id": 342,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small pale bird with wings angled upward versus large fork-tailed tern banking with one wing downward."
+    },
+    {
+      "pair_id": 343,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale flight profile versus fork-tailed bird turning above ground/utilities."
+    },
+    {
+      "pair_id": 344,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A shows a left-facing red-billed bird and broad asymmetric wingbeat; B right-facing light bird with two narrower upswept wings and different tail contour. Not mirrored/cropped same frame.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_344.jpg"
+    },
+    {
+      "pair_id": 345,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "One pale bird versus three separated dark birds with different poses."
+    },
+    {
+      "pair_id": 346,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale sky bird versus waterbird below concrete wall."
+    },
+    {
+      "pair_id": 347,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale sky bird versus swimming flock on textured water."
+    },
+    {
+      "pair_id": 348,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A red-billed side view has asymmetric wingbeat; B small dark symmetric spread-wing underside. Different morphology and pose.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_348.jpg"
+    },
+    {
+      "pair_id": 349,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A side-view bird has one wing raised and one low; B small symmetric soaring silhouette. Different frame/outline.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_349.jpg"
+    },
+    {
+      "pair_id": 350,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale pointed-wing bird versus broad fingered-wing raptor."
+    },
+    {
+      "pair_id": 351,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale aerial bird versus bird perched on cable."
+    },
+    {
+      "pair_id": 352,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale sky flight versus bird near concrete wall."
+    },
+    {
+      "pair_id": 353,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale sky flight versus utility wires/pole and trees."
+    },
+    {
+      "pair_id": 354,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small pale bird in side profile versus large dark bird with long outstretched pointed wings."
+    },
+    {
+      "pair_id": 355,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small pale side profile versus long-tailed seabird with one very tall raised wing."
+    },
+    {
+      "pair_id": 356,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale aerial bird versus birds along sloping waterline."
+    },
+    {
+      "pair_id": 357,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale aerial bird versus bathing duck and concentric water ripples."
+    },
+    {
+      "pair_id": 358,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Sky flight versus swimming birds on waves."
+    },
+    {
+      "pair_id": 359,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small pale flying bird versus large gull in long-wing downstroke."
+    },
+    {
+      "pair_id": 360,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale bird with angled raised wing versus gray gull in broad horizontal flight; wing geometry differs."
+    },
+    {
+      "pair_id": 361,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A has broad swept-up wing with separate feather tips and projecting red bill; B a slender-wing banked glider. Geometry and pose differ.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_361.jpg"
+    },
+    {
+      "pair_id": 362,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "A shows broad raised wing and red bill; B near-level flight with two long laterally extended wings. Different pose/body outline.",
+      "inspected_evidence": "E:/Datasets/ROBird-Bench/external_expansion_duplicate_review_v1/details/pair_362.jpg"
+    },
+    {
+      "pair_id": 363,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small pale bird in side profile versus large gull banking with long dark primary tips."
+    },
+    {
+      "pair_id": 364,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small pale flyer versus broad dark wings with pale patches."
+    },
+    {
+      "pair_id": 365,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small pale flyer versus large dark bird and moon."
+    },
+    {
+      "pair_id": 366,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Plain pale-sky flight versus tiny narrow silhouette above cloudy ocean horizon."
+    },
+    {
+      "pair_id": 367,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale flying bird versus long-necked waterbird."
+    },
+    {
+      "pair_id": 368,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small pale side profile versus close white bird turning front-on with splayed tail."
+    },
+    {
+      "pair_id": 369,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Single aerial bird versus three swimming birds."
+    },
+    {
+      "pair_id": 370,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Pale side profile with wing angled back versus bird viewed from below with broad fully spread wings."
+    },
+    {
+      "pair_id": 371,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Pale long-bodied flying bird versus compact dark raised-wing silhouette."
+    },
+    {
+      "pair_id": 372,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Pale pointed-wing side profile versus compact dark flight silhouette."
+    },
+    {
+      "pair_id": 373,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Pale streamlined side profile versus compact bird viewed from below with fan-shaped tail and rotated wings."
+    },
+    {
+      "pair_id": 374,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Pale side-on flight versus dark frontal horizontally spread wings."
+    },
+    {
+      "pair_id": 375,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Pale bird with narrow backward-angled wings versus nearer gull with bent raised wing in two-bird scene."
+    },
+    {
+      "pair_id": 376,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Pale flying bird has distinctly raised wing versus red-billed bird with wings folded along body."
+    },
+    {
+      "pair_id": 377,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same dark bird beneath timber; side-facing tucked posture versus upright forward head."
+    },
+    {
+      "pair_id": 378,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Small brown bird standing on sand versus pale bird in flight against blue sky."
+    },
+    {
+      "pair_id": 379,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Brown bird on sand versus narrow flying silhouette in empty sky."
+    },
+    {
+      "pair_id": 380,
+      "decision": "DISTINCT_HISTORY",
+      "rationale": "Brown bird on sand versus distant gliding bird."
+    },
+    {
+      "pair_id": 381,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same yellow bird among flowers; head/beak posture and branch alignment change."
+    },
+    {
+      "pair_id": 382,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same flower patch; small bird shifts position/posture among flower heads."
+    },
+    {
+      "pair_id": 383,
+      "decision": "EXACT_WITHIN_OBSERVATION",
+      "rationale": "SHA256 equality proves identical tree-trunk/yellow-bird image repeated inside the observation."
+    },
+    {
+      "pair_id": 384,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same bird on dry lawn; bird stance/location and framing change."
+    },
+    {
+      "pair_id": 385,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same gull on stone wall by river; head direction and background alignment differ."
+    },
+    {
+      "pair_id": 386,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same wall gull; frontal head versus lateral head and slightly different framing."
+    },
+    {
+      "pair_id": 387,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same wall gull; small head/body and frame shifts visible, natural correlated shots."
+    },
+    {
+      "pair_id": 388,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same coastal railing gull; opposite head directions and substantial framing difference."
+    },
+    {
+      "pair_id": 389,
+      "decision": "DISTINCT_CROSS_OBSERVATION",
+      "rationale": "Four ducks on rippled water versus bird taking off above wooded trunk."
+    },
+    {
+      "pair_id": 390,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same woodpecker on trunk; head faces toward bark versus turned left, with body displacement."
+    },
+    {
+      "pair_id": 391,
+      "decision": "WITHIN_OBSERVATION_REDUNDANCY",
+      "rationale": "Same trunk woodpecker; upward-facing posture versus head turned left."
+    }
+  ]
+}

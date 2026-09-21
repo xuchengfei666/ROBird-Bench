@@ -1,0 +1,56 @@
+protocol:
+  name: robird-scaleup-p0-v2
+  version: p0-v2-20260819
+  status: frozen
+  freeze_record: ../../FROZEN_DATASET_P0_V2.sha256
+  freeze_required:
+    - ../../DATASET_P0_V2_PROTOCOL.md
+    - dataset_p0_v2.yaml
+    - scaleup_p0_v2.yaml
+    - ../data/manifests/frozen_100_taxa.csv
+    - ../results/scaleup_feasibility/audit.json
+    - ../results/dataset_p0/scaleup_selection_audit.json
+seed: 20260819
+paths:
+  original_manifest_csv: ../../../Unseen-View-Evidence-Bounds/code/data/p0_manifest.csv
+  original_source_json: ../../../experiments/real_observation_counterfactual/results/d1_manifest.json
+  original_download_ledger: ../../../experiments/real_observation_counterfactual/results/d1_downloads.json
+  confirmation_manifest_csv: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_manifest.csv
+  confirmation_source_json: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_manifest.json
+  confirmation_download_ledger: ../../../Unseen-View-Evidence-Bounds/Confirmation-P0/code/data/confirmation_downloads.json
+  feasibility_audit_json: ../results/scaleup_feasibility/audit.json
+  frozen_taxa_csv: ../data/manifests/frozen_100_taxa.csv
+  candidate_snapshot_json: ../results/dataset_p0/scaleup_candidates_v2.json
+  selection_audit_json: ../results/dataset_p0/scaleup_selection_audit_v2.json
+  metadata_manifest_csv: ../data/manifests/p0_metadata_photos_v2.csv
+  canonical_manifest_csv: ../data/manifests/development_photos_v2.csv
+  download_root: E:/Datasets/ROBird-Bench/p0-v2/images
+  download_ledger_json: E:/Datasets/ROBird-Bench/p0-v2/metadata/download_ledger.json
+source:
+  api_base: https://api.inaturalist.org/v1
+  created_d2: '2026-08-18T16:00:00Z'
+  quality_grade: research
+  photo_licenses:
+    - cc0
+    - cc-by
+    - cc-by-sa
+  min_photos_per_group: 2
+  max_photos_per_group: 5
+  pages: 20
+  per_page: 200
+  request_attempts: 5
+  request_delay_seconds: 0.15
+selection:
+  existing_groups_per_species: 26
+  add_groups_existing_species: 24
+  groups_new_species: 50
+  candidate_multiplier: 4
+  max_groups_per_new_observer: 1
+  expected_species: 100
+  expected_groups: 5000
+download:
+  max_workers: 8
+  request_attempts: 5
+  timeout_seconds: 90
+  checkpoint_every: 50
+  max_failures_before_stop: 20

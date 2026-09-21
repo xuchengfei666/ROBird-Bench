@@ -1,0 +1,97 @@
+protocol:
+  name: robird-v5-3-p3-risk-aware
+  version: p3-risk-aware-v5.3-20260822
+  status: frozen
+  freeze_record: ../../FROZEN_P3_RISK_AWARE_V5_3.sha256
+  freeze_required:
+    - ../../P3_RISK_AWARE_PROTOCOL_V5_3.md
+    - p3_risk_aware_v5_3.yaml
+    - ../src/robird/risk_aware.py
+    - ../scripts/train_p3_risk_aware.py
+    - ../scripts/evaluate_p3_risk_aware.py
+    - ../tests/test_risk_aware.py
+    - ../configs/benchmark_v5_3_p1.yaml
+    - ../data/manifests/development_photos_v5_3.csv
+    - ../data/manifests/development_splits_v5_3.csv
+    - ../results/dataset_p0/audit_v5_3.json
+    - ../results/dataset_p0/split_audit_v5_3.json
+    - ../results/benchmark_v5_3_p1/p1_gate_audit.json
+    - ../results/benchmark_v5_3_p1/mean-feature-k1/best.pth
+    - ../results/benchmark_v5_3_p2/harmful_view_results.json
+    - ../configs/p2_harmful_views_v5_3.yaml
+    - ../scripts/p2_harmful_views.py
+    - ../../P2_HARMFUL_VIEW_PROTOCOL_V5_3.md
+    - ../../FROZEN_P2_HARMFUL_VIEW_V5_3.sha256
+    - E:/Datasets/ROBird-Bench/features/dinov2_vits14_224_v5_3/features.npy
+    - E:/Datasets/ROBird-Bench/features/dinov2_vits14_224_v5_3/index.csv
+    - ../results/features/dinov2_vits14_224_v5_3_audit.json
+    - ../../FROZEN_BENCHMARK_P1_V5_3.sha256
+    - ../../FROZEN_FEATURE_P0_V5_3_DINOV2.sha256
+seed: 20260819
+paths:
+  manifest_csv: ../data/manifests/development_photos_v5_3.csv
+  splits_csv: ../data/manifests/development_splits_v5_3.csv
+  dataset_audit_json: ../results/dataset_p0/audit_v5_3.json
+  split_audit_json: ../results/dataset_p0/split_audit_v5_3.json
+  feature_matrix: E:/Datasets/ROBird-Bench/features/dinov2_vits14_224_v5_3/features.npy
+  feature_index_csv: E:/Datasets/ROBird-Bench/features/dinov2_vits14_224_v5_3/index.csv
+  feature_audit_json: ../results/features/dinov2_vits14_224_v5_3_audit.json
+  p1_checkpoint: ../results/benchmark_v5_3_p1/mean-feature-k1/best.pth
+  p1_gate_audit_json: ../results/benchmark_v5_3_p1/p1_gate_audit.json
+  p2_result_json: ../results/benchmark_v5_3_p2/harmful_view_results.json
+  result_root: ../results/benchmark_v5_3_p3/risk-aware
+  checkpoint: ../results/benchmark_v5_3_p3/risk-aware/best.pth
+  history_json: ../results/benchmark_v5_3_p3/risk-aware/history.json
+  result_json: ../results/benchmark_v5_3_p3/risk-aware/risk_aware_results.json
+  predictions_csv: ../results/benchmark_v5_3_p3/risk-aware/risk_aware_predictions.csv
+expected:
+  manifest_sha256: dc39cb2db60958f65f32264eff7e138eff7cdcd4894673286046bef0d33dd2f7
+  splits_sha256: 6fce8f39c35cdc12f5a406ae701317fe2ee4176d6ef07c65ba59ebb3ada86b94
+  dataset_audit_sha256: ace2632014e4f6baecd67d9c8641a41aae4505df57b36377cef43954d0bc8a4a
+  split_audit_sha256: 5095fbe8bd801a6a80f44ce1a120dec667a7b97a468349e75c459fc0f238bd59
+  feature_matrix_sha256: bcbfa0a81261da2ae6a111df56a310ac560aa95bd433949c71b4667d033bbeab
+  feature_index_sha256: d94977bc182fa3738b3ae631ba8341c5ad51c5d51fd18fdb7afe8416b6e2213d
+  feature_audit_sha256: 69e63cce6b802363547edbdf763b0406474dffb0b4455fe9a70baf327425344e
+  p1_checkpoint_sha256: 6bfc4ddbf2f940ff7422daa06c18c8aed448694ec01c45388ed0d17c4ee3d318
+  p1_gate_audit_sha256: cc88b216113325ce1231b4f27c9895595d702ff3e220616e24c225c998646542
+  p2_result_sha256: d9f7034fd55ccf7dc5010b538479f044061a8dfdebb0f21f4980601426e70937
+  p2_config_sha256: aed000da71f04e59ddce1696dff82471106c69d745f4d62aa0f035d308e2fe4a
+  p2_script_sha256: bc2d33bec865de33cd86c7e17095ea7e8c519912383bccfc25669702f43e0038
+  p2_protocol_sha256: 4188a647ab03a31da63d45f0b079b09a22d54284fa8774ffef2f726ea367f44d
+  p2_freeze_sha256: e65ecba5a770cb667adde4b43ee82beda92f8202d7efcb981ec64832a276d22d
+  expected_two_view_groups: 750
+model:
+  feature_dim: 384
+  hidden_dim: 128
+  dropout: 0.1
+  keep_probability: 0.8
+  anchor_probability: 0.2
+training:
+  batch_size: 64
+  epochs: 50
+  learning_rate: 0.0001
+  base_learning_rate_scale: 0.1
+  weight_decay: 0.0001
+  patience: 8
+  label_smoothing: 0.0
+  risk_samples: 4
+  risk_quantile: 0.25
+  risk_weight: 0.5
+  consistency_weight: 0.05
+validation_score_weights:
+  full: 0.25
+  budget1: 0.25
+  budget2: 0.5
+data:
+  max_subsets_per_budget: 32
+  num_workers: 0
+evaluation:
+  budgets: [1, 2, 3, 4, 5]
+  max_subsets_per_budget: 32
+  batch_size: 128
+  ece_bins: 15
+  bootstrap_repeats: 5000
+  expected_two_view_groups: 750
+gate:
+  min_budget2_recovery_vs_mean: 0.005
+  min_budget2_minus_budget1_delta: -0.003
