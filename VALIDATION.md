@@ -25,6 +25,11 @@ experiments or clean-machine end-to-end training.
   bulk files. A fresh clone without release archives is not a full-evidence
   validation. Asset sizes and SHA-256 hashes are in `release_assets.json`.
 
-Use code **v1.0.1** with evidence assets **v1.0.0**. The code patch adds portable
+An unauthenticated Windows clone exposed automatic LF-to-CRLF conversion by
+the user's global Git configuration. Code v1.0.2 adds `.gitattributes` with
+`* -text` to preserve the recorded bytes on every platform. Source hashes and
+scientific files are unchanged; earlier published tags are not rewritten.
+
+Use code **v1.0.2** with evidence assets **v1.0.0**. The code patch adds portable
 plotting, retrieval, test selection and documentation; it changes no frozen
 experimental output. The original v1.0.0 source tag has not been rewritten.

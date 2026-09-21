@@ -44783,7 +44783,7 @@
     },
     {
       "path": "CITATION.cff",
-      "sha256": "e4a65da9f1d0c5a87fe754e9105bdd1912fcc2e5cf8d0eed72f63d9b1f8f6e1c",
+      "sha256": "ae0cbe310f9d97825e8d070b583c9f4e7bfa6517bb4129b32ff58a9c12bc5528",
       "bytes": 515
     },
     {
@@ -44828,7 +44828,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "f085ca14fe2576373e05521ba0a3a2daaadbc19048167dac9e2bed63e6c6edcb",
+      "sha256": "d9c9fe7a67edd9d2ed8ce12dc54d31a8f5d5eac05700def4addfa7fab557ed17",
       "bytes": 6627
     },
     {
@@ -44888,8 +44888,13 @@
     },
     {
       "path": "VALIDATION.md",
-      "sha256": "5501a9c41dd6809d7809f5c553a025cf928cd8d56a4e646310d1c2a0a355f60b",
-      "bytes": 1992
+      "sha256": "d13b8fb235d4af5d7b5e3e4a245fd10c1a020e909d3228225633b3b333ee0e7a",
+      "bytes": 2297
+    },
+    {
+      "path": ".gitattributes",
+      "sha256": "657a71862776fcb628c49ec7433462e108c34e64e39013c65834ceed8139dea5",
+      "bytes": 158
     }
   ]
 }

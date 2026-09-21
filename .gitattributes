@@ -1,0 +1,3 @@
+# Preserve byte-for-byte scientific and manifest hashes on all platforms.
+# Automatic Windows newline conversion would invalidate frozen file hashes.
+* -text

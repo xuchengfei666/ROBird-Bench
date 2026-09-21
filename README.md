@@ -13,10 +13,10 @@ This is an empirical observation-set study, not a claim of a new state-of-the-ar
 
 ## Release layout
 
-Use code tag **v1.0.1** (portable tooling and figure documentation corrections).
+Use code tag **v1.0.2** (portable tooling and figure documentation corrections).
 The evidence archives remain under release **v1.0.0**, with unchanged archive
 hashes. The v1.0.0 auto-generated source archive predates these tooling fixes;
-use the v1.0.1 code snapshot with the v1.0.0 evidence files. This version split
+use the v1.0.2 code snapshot with the v1.0.0 evidence files. This version split
 does not change any frozen experiment, probability, support or result.
 
 | Location | Contents |
