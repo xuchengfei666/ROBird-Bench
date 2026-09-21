@@ -44775,6 +44775,121 @@
       "sha256": "b91450321e8e34f280666cda57e4adc59ab5f57e2cd65c48a63704e98b46dcfb",
       "bytes": 227474,
       "asset": "development-models-and-predictions-006.zip"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "3489dfe430a7048292488fcd2a410df8b1216cb74cab31f5dd1ec6ef5d1f1cb1",
+      "bytes": 138
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "e4a65da9f1d0c5a87fe754e9105bdd1912fcc2e5cf8d0eed72f63d9b1f8f6e1c",
+      "bytes": 515
+    },
+    {
+      "path": "DATA_LICENSE.md",
+      "sha256": "047fe406e9948129a2b42336c42dc003fa9778a159d8f7f22ff36c4c1f8e9065",
+      "bytes": 1826
+    },
+    {
+      "path": "figures/ATTRIBUTION.md",
+      "sha256": "d5f32d0c96274fa0865bc6a16f0906a7884a96bf0939e04972d31f3e85432f51",
+      "bytes": 1885
+    },
+    {
+      "path": "figures/case_selection.json",
+      "sha256": "3285ecaceb3030e7f0fdfce1907768d2e368ccaaaa55db7f13cf986ad83511a4",
+      "bytes": 44810
+    },
+    {
+      "path": "figures/diagrams_editable.pptx",
+      "sha256": "4959ce403ab291dd53eae71227ee50f0c8e550626ac73fc6c76ab81dfc9f26e9",
+      "bytes": 1703446
+    },
+    {
+      "path": "figures/figure_cases.pdf",
+      "sha256": "753796849864726a331ccca8d5d170afe76434ea0c0d5310b20acaea305fd1d2",
+      "bytes": 412506
+    },
+    {
+      "path": "figures/figure_pipeline.pdf",
+      "sha256": "a955dc21a595cba5475d9ff99ff40a374df3bbdd6be7ebb0cfbf81cdbcd24a6b",
+      "bytes": 213719
+    },
+    {
+      "path": "figures/figure_selection.pdf",
+      "sha256": "ef38d3e62444d179fa0f5607ff1484b10941e9aa9cc3daf1b2bccbe942688cbe",
+      "bytes": 82434
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "bae482629e17f3b3ea73da6fbe9c073a130601464a54634142a903f96156e931",
+      "bytes": 1309
+    },
+    {
+      "path": "README.md",
+      "sha256": "f085ca14fe2576373e05521ba0a3a2daaadbc19048167dac9e2bed63e6c6edcb",
+      "bytes": 6627
+    },
+    {
+      "path": "release_assets.json",
+      "sha256": "17bfbf7b0b1f0d7c64ce478bb66814559575759fb22c89456696a2bc8ff54e11",
+      "bytes": 8825
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "sha256": "dad0341433423131eec921a3e015471244412ab711423a4b0aebf7e64baf8d59",
+      "bytes": 3112
+    },
+    {
+      "path": "requirements-analysis.txt",
+      "sha256": "0b1c30dfd667512852d0d8cf38a6196f1dfe8f716b81c964557069a9d589488d",
+      "bytes": 60
+    },
+    {
+      "path": "requirements-study.txt",
+      "sha256": "00c82cabc8a5a362bb5b5d7e0992ece3fd4c4a26fb038031e48f84381202444e",
+      "bytes": 123
+    },
+    {
+      "path": "THIRD_PARTY.md",
+      "sha256": "a3ae3e6d939bd015a8ed062990f6e83eb9e004f97b6b76e04bf63d0593b45948",
+      "bytes": 1463
+    },
+    {
+      "path": "tools/fetch_release.py",
+      "sha256": "c2945ac8cfb4ddd3e727a8cbec3e60a13872b0fe9a854e82c94f7aa2c34eeb39",
+      "bytes": 1816
+    },
+    {
+      "path": "tools/plot_figures.py",
+      "sha256": "5bf78f56d92bc0a42da3bbed8e868a5d3ccb2dfd80cbf8aa4438c91ebbdd72df",
+      "bytes": 12631
+    },
+    {
+      "path": "tools/recompute_prediction.py",
+      "sha256": "42551a5e92c4fe20688a792a02e1c5a618674d9c84cfee669826a57e5408fb66",
+      "bytes": 1290
+    },
+    {
+      "path": "tools/retrieve_photos.py",
+      "sha256": "7adc5d73ae66d2f2826dd0d348ad1d7090df695624b060c0e655096394480a0d",
+      "bytes": 2126
+    },
+    {
+      "path": "tools/test_portable.py",
+      "sha256": "d43e85e2719402a06ce2976116e6f6f77b64d30f693153dc6b179d2b692a2e76",
+      "bytes": 1323
+    },
+    {
+      "path": "tools/verify_release.py",
+      "sha256": "5348d6eefc863a6d2f1be338e07f00f16b4e326334200c1809f0ff4e919e7acf",
+      "bytes": 2259
+    },
+    {
+      "path": "VALIDATION.md",
+      "sha256": "5501a9c41dd6809d7809f5c553a025cf928cd8d56a4e646310d1c2a0a355f60b",
+      "bytes": 1992
     }
   ]
 }

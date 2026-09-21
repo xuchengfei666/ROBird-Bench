@@ -13,6 +13,12 @@ This is an empirical observation-set study, not a claim of a new state-of-the-ar
 
 ## Release layout
 
+Use code tag **v1.0.1** (portable tooling and figure documentation corrections).
+The evidence archives remain under release **v1.0.0**, with unchanged archive
+hashes. The v1.0.0 auto-generated source archive predates these tooling fixes;
+use the v1.0.1 code snapshot with the v1.0.0 evidence files. This version split
+does not change any frozen experiment, probability, support or result.
+
 | Location | Contents |
 |---|---|
 | `code/src`, `code/scripts`, `code/configs`, `code/tests` | Study implementations, historical versioned runners, fixed configurations and unit tests |
@@ -53,9 +59,21 @@ To validate and recompute actual-budget accuracy from one released prediction fi
 python tools/recompute_prediction.py --predictions artifacts/external_expansion_v2_2/runs/dinov2-deepsets-all-seed20260819/predictions.csv --manifest data/manifests/external_primary.csv --output recomputed.csv
 ```
 
-All non-empty photo subsets must be present; the check rejects foreign photos, invalid probabilities and incomplete coverage. The output averages within observations and then taxa. Three-seed results require the three specified seeds; one run is not the manuscript mean. Tests can be run with `PYTHONPATH=code/src python -m pytest code/tests -q` after installing the full environment. Some historical integration tests and frozen runner entry points require the original private workstation layout; they are preserved for provenance, **not advertised as portable one-command experiments**. See `REPRODUCIBILITY.md`.
+All non-empty photo subsets must be present; the check rejects foreign photos, invalid probabilities and incomplete coverage. Accuracy is averaged within observations and then taxa; probability-quality metrics give observations equal weight. Three-seed results require the three specified seeds; one run is not the manuscript mean. Run `python tools/test_portable.py` after installing the full environment. This explicitly deselects 20 historical fixture-dependent cases, while retaining them in the source. The unfiltered historical suite produced 215 passes, 12 failures and 8 errors on the minimal release clone because historical census/review fixtures are absent. Frozen historical runner entry points are **not advertised as portable one-command experiments**. See `REPRODUCIBILITY.md`.
+
+For licensed source-photo retrieval, use `python tools/retrieve_photos.py --manifest data/manifests/external_primary.csv --output downloaded_photos --limit 2` to check two images before retrieving the full cohort. A changed or missing source is reported as a failure, never silently substituted.
 
 ## Citation and licenses
+
+To regenerate the five quantitative figures without the original workstation:
+
+```bash
+python tools/plot_figures.py
+```
+
+Outputs are written to `generated_figures/`. Editable protocol/case diagrams
+and licensed-photo provenance are in `figures/`. See `VALIDATION.md` for the
+exact checks performed and their limitations.
 
 See `CITATION.cff`, `LICENSE` and `DATA_LICENSE.md`. This is a versioned GitHub software/data release, not a claimed journal acceptance or a DOI archive. Do not invent a DOI when citing it. Author-created code is MIT licensed; author-created derived tables are CC BY 4.0. Third-party photos, dependencies and pretrained encoders retain their own rights.
 

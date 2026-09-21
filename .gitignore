@@ -2,6 +2,8 @@ __pycache__/
 .pytest_cache/
 downloads/
 artifacts/
+generated_figures/
+downloaded_photos/
 recomputed*.csv
 recomputed*.json
 *.pyc
